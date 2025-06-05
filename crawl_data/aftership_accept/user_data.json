@@ -1,0 +1,89 @@
+{
+    "general": {
+        "gender": "Male",
+        "first_name": "David",
+        "last_name": "Lauterbach",
+        "email_prefix": "dlauterbachaa",
+        "email_suffix": "gmail.com",
+        "password": "Password123!",
+        "date_of_birth": "1st of January, 2000",
+        "credit_card_number": "5127 8809 9999 9990",
+        "credit_card_expiry_month": "03",
+        "credit_card_expiry_year": "30",
+        "credit_card_cvv": "737"
+    },
+    "profile": {
+        "dutch": {
+            "country_code": "+31",
+            "local_format": "0610666475",
+            "international_format": "+31610666475",
+            "street": "Toernooiveld",
+            "house_number": "200",
+            "zip_code": "6525EC",
+            "city": "Nijmegen",
+            "province": "Gelderland",
+            "country": "Nederland",
+            "payment_options": "iDeal or Credit Card (Mastercard)"
+        },
+        "german": {
+            "country_code": "+49",
+            "local_format": "0610666475",
+            "international_format": "+49610666475",
+            "street": "Unter Den Linden",
+            "house_number": "6",
+            "zip_code": "10117",
+            "city": "Berlin",
+            "province": "Brandenburg",
+            "country": "Deutschland",
+            "payment_options": "Credit Card (Mastercard)"
+        },
+        "french": {
+            "country_code": "+33",
+            "local_format": "0610666475",
+            "international_format": "+33610666475",
+            "street": "Rue Victor Cousin",
+            "house_number": "1",
+            "zip_code": "75005",
+            "city": "Paris",
+            "province": "Île-de-France",
+            "country": "France",
+            "payment_options": "Credit Card (Mastercard)"
+        },
+        "spanish": {
+            "country_code": "+34",
+            "local_format": "610666475",
+            "international_format": "+34610666475",
+            "street": "Carrer de la Immaculada",
+            "house_number": "2",
+            "zip_code": "08017",
+            "city": "Barcelona",
+            "province": "Barcelona",
+            "country": "Spain",
+            "payment_options": "Credit Card (Mastercard)"
+        },
+        "italian": {
+            "country_code": "+39",
+            "local_format": "01234567890",
+            "international_format": "+3901234567890",
+            "street": "Piazzale Aldo Moro",
+            "house_number": "5",
+            "zip_code": "00185",
+            "city": "Roma",
+            "province": "Roma",
+            "country": "Italia",
+            "payment_options": "Credit Card (Mastercard)"
+        },
+        "swedish": {
+            "country_code": "+46",
+            "local_format": "0123456789",
+            "international_format": "+46123456789",
+            "street": "Universitetsplatsen",
+            "house_number": "1",
+            "zip_code": "40530",
+            "city": "Goteborg",
+            "province": "Vastergotland",
+            "country": "Sverige",
+            "payment_options": "Credit Card (Mastercard)"
+        }
+    }
+}

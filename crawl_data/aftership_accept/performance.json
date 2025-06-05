@@ -1,0 +1,1598 @@
+{
+    "gisou.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 57.998496532440186,
+            "start_time": "2025-05-05T08:50:17.618216",
+            "end_time": "2025-05-05T08:51:16.779019",
+            "input_tokens": 26155,
+            "final_result": "Successfully navigated to gisou.com, accepted cookies, waited, and closed any visible pop-ups. There are no other obvious pop-ups on the page."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 51.855899810791016,
+            "start_time": "2025-05-05T08:51:17.179392",
+            "end_time": "2025-05-05T08:52:10.225227",
+            "input_tokens": 26061,
+            "final_result": "Successfully added Honey Infused Hair Oil to the cart and navigated to the cart overview page. The cart contains 1 item."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 18,
+            "duration": 128.1455340385437,
+            "start_time": "2025-05-05T08:52:10.404746",
+            "end_time": "2025-05-05T08:54:19.702679",
+            "input_tokens": 140382,
+            "final_result": "The order is being processed. All form fields were filled and the checkout process was initiated."
+        }
+    },
+    "opposuits.eu": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 55.923903703689575,
+            "start_time": "2025-05-05T08:54:29.446503",
+            "end_time": "2025-05-05T08:55:26.632353",
+            "input_tokens": 32222,
+            "final_result": "Successfully navigated to opposuits.eu, accepted cookies, closed pop-ups, and selected the Dutch webshop. There are no more obvious pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 9,
+            "duration": 82.35069608688354,
+            "start_time": "2025-05-05T08:55:26.876656",
+            "end_time": "2025-05-05T08:56:50.241090",
+            "input_tokens": 57443,
+            "final_result": "Successfully found and added 'The Orange' suit in size EU 52 to the cart. The cart overview is shown on the checkout information page, confirming the product is in the cart."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 190.3667163848877,
+            "start_time": "2025-05-05T08:56:50.391091",
+            "end_time": "2025-05-05T09:00:02.027306",
+            "input_tokens": 227929,
+            "final_result": "Completed filling in contact and shipping information. Was unable to select shipping method and proceed to payment as instructed to only use the done action in this step. The task is not fully completed."
+        }
+    },
+    "polaroid.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 29.0858314037323,
+            "start_time": "2025-05-05T09:19:25.654731",
+            "end_time": "2025-05-05T09:19:55.976541",
+            "input_tokens": 15366,
+            "final_result": "Successfully navigated to polaroid.com, accepted cookies, and no other pop-ups were found."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 18,
+            "duration": 201.00505661964417,
+            "start_time": "2025-05-05T09:19:56.296114",
+            "end_time": "2025-05-05T09:23:18.742014",
+            "input_tokens": 130533,
+            "final_result": "Successfully added the Polaroid Now+ Instant Camera Generation 3 - Coral to the cart and navigated to the cart overview page. The product is visible in the cart."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 263.45581555366516,
+            "start_time": "2025-05-05T09:23:18.933119",
+            "end_time": "2025-05-05T09:27:44.942682",
+            "input_tokens": 273107,
+            "final_result": "I have navigated to checkout, filled in all the contact, delivery, and payment information, and attempted to submit the form by clicking the 'Review order' button. The card was declined in previous attempts, but according to the instructions, the task is complete once the form has been submitted, even if the payment fails."
+        }
+    },
+    "nl.tonyschocolonely.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 23.013375520706177,
+            "start_time": "2025-05-05T09:53:30.525425",
+            "end_time": "2025-05-05T09:53:54.853529",
+            "input_tokens": 14626,
+            "final_result": "Successfully navigated to the website, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 38.488858222961426,
+            "start_time": "2025-05-05T09:53:55.031060",
+            "end_time": "2025-05-05T09:54:34.531300",
+            "input_tokens": 23243,
+            "final_result": "Successfully found a product, added it to the cart, and navigated to the cart overview page. The cart contains 'Tiny Tony's mix'."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 15,
+            "duration": 101.69139409065247,
+            "start_time": "2025-05-05T09:54:34.691098",
+            "end_time": "2025-05-05T09:56:17.751620",
+            "input_tokens": 112140,
+            "final_result": "Successfully navigated to checkout, filled in all the form fields with the provided user data and credit card information, and submitted the form. The order is now processing."
+        }
+    },
+    "viktor-rolf.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 102.99544715881348,
+            "start_time": "2025-05-05T09:34:46.688151",
+            "end_time": "2025-05-05T09:36:30.645540",
+            "input_tokens": 15601,
+            "final_result": "Successfully navigated to viktor-rolf.com, accepted cookies, and closed the pop-up. There are no other visible pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 50.99337649345398,
+            "start_time": "2025-05-05T09:36:30.813638",
+            "end_time": "2025-05-05T09:37:22.946369",
+            "input_tokens": 30163,
+            "final_result": "Successfully added 'PLEATED TAFFETA CROPPED TOP' in size S to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 190.71297550201416,
+            "start_time": "2025-05-05T09:37:23.180137",
+            "end_time": "2025-05-05T09:40:35.150787",
+            "input_tokens": 288830,
+            "final_result": "I have filled in the contact and delivery information. The next step would be to select the standard shipping method and proceed to the payment section to fill in the credit card details and submit the form. I was instructed to use the done action as the last step."
+        }
+    },
+    "artbymaudsch.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 29.882880449295044,
+            "start_time": "2025-05-05T09:58:54.400568",
+            "end_time": "2025-05-05T09:59:25.385453",
+            "input_tokens": 17106,
+            "final_result": "Successfully navigated to artbymaudsch.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 81.41736650466919,
+            "start_time": "2025-05-05T09:59:25.606453",
+            "end_time": "2025-05-05T10:00:48.191075",
+            "input_tokens": 49929,
+            "final_result": "Successfully added 'Santiago' to the cart and navigated to the cart overview. The task is complete."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 11,
+            "duration": 76.56036257743835,
+            "start_time": "2025-05-05T10:00:48.450857",
+            "end_time": "2025-05-05T10:02:06.191128",
+            "input_tokens": 78373,
+            "final_result": "Captcha appeared. Cannot proceed with the task."
+        }
+    },
+    "tameson.nl": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 56.40241742134094,
+            "start_time": "2025-05-05T10:04:32.261409",
+            "end_time": "2025-05-05T10:05:29.956515",
+            "input_tokens": 15508,
+            "final_result": "Successfully navigated to tameson.nl, accepted cookies, and no other pop-ups were present."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 74.65524864196777,
+            "start_time": "2025-05-05T10:05:30.126561",
+            "end_time": "2025-05-05T10:06:45.862244",
+            "input_tokens": 37536,
+            "final_result": "Successfully found a product, added it to the cart, and navigated to the cart overview page. The cart contains the added product."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 185.4247272014618,
+            "start_time": "2025-05-05T10:06:46.041289",
+            "end_time": "2025-05-05T10:09:52.655288",
+            "input_tokens": 221937,
+            "final_result": "Could not complete the checkout process. I have filled in the user data (Email: dlauterbachaa+tameson.nl@gmail.com, Country: Nederland, First Name: David, Last Name: Lauterbach, Address: Toernooiveld 200, ZIP Code: 6525EC, City: Nijmegen, Phone Number: +31610666475), selected Krediet-/Debetkaart as the payment method and Zelfde als bezorgadres for the billing address. However, I could not find the credit card input fields after multiple scrolls down."
+        }
+    },
+    "polarskateco.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 25.380167961120605,
+            "start_time": "2025-05-05T10:20:31.689541",
+            "end_time": "2025-05-05T10:20:58.230655",
+            "input_tokens": 15658,
+            "final_result": "Successfully navigated to polarskateco.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 60.510682344436646,
+            "start_time": "2025-05-05T10:20:58.406776",
+            "end_time": "2025-05-05T10:22:00.221104",
+            "input_tokens": 39914,
+            "final_result": "Successfully added 'Cargo Shell Jacket - Black' (size S) to the cart and navigated to the cart overview page. The product is visible in the cart."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 226.5482041835785,
+            "start_time": "2025-05-05T10:22:00.369966",
+            "end_time": "2025-05-05T10:25:48.076108",
+            "input_tokens": 265232,
+            "final_result": "I have filled in all the contact, delivery, and credit card information. I attempted to submit the form by clicking the 'Review order' button multiple times, but the page reloaded. I also tried clicking another element which was a label. The form has not been successfully submitted."
+        }
+    },
+    "kiiroo.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 31.723640203475952,
+            "start_time": "2025-05-05T10:26:40.723530",
+            "end_time": "2025-05-05T10:27:13.717622",
+            "input_tokens": 15005,
+            "final_result": "Successfully navigated to kiiroo.com, accepted cookies, and found no other pop-ups to close."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 61.74739956855774,
+            "start_time": "2025-05-05T10:27:13.964012",
+            "end_time": "2025-05-05T10:28:16.798627",
+            "input_tokens": 30263,
+            "final_result": "Successfully added a product to the cart and navigated to the checkout page which shows the product in the order summary."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 21,
+            "duration": 161.8122594356537,
+            "start_time": "2025-05-05T10:28:16.961762",
+            "end_time": "2025-05-05T10:30:59.918702",
+            "input_tokens": 168473,
+            "final_result": "Successfully navigated to checkout, filled in all the form fields with the provided information, and submitted the form. The order is now being processed."
+        }
+    },
+    "avantarte.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 25.142781257629395,
+            "start_time": "2025-05-05T10:32:20.054718",
+            "end_time": "2025-05-05T10:32:46.319280",
+            "input_tokens": 10766,
+            "final_result": "Successfully navigated to avantarte.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 76.40897250175476,
+            "start_time": "2025-05-05T10:32:46.555423",
+            "end_time": "2025-05-05T10:34:03.990057",
+            "input_tokens": 41784,
+            "final_result": "Successfully added a product to the cart and reached the checkout page which shows the order summary with the product in the cart."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 25,
+            "duration": 221.582683801651,
+            "start_time": "2025-05-05T10:34:04.158566",
+            "end_time": "2025-05-05T10:37:46.780187",
+            "input_tokens": 226957,
+            "final_result": "Checkout form submitted. Payment failed as the card was declined."
+        }
+    },
+    "paperlike.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 29.383591890335083,
+            "start_time": "2025-05-05T11:49:56.567176",
+            "end_time": "2025-05-05T11:50:27.190094",
+            "input_tokens": 14754,
+            "final_result": "Navigated to paperlike.com and closed a pop-up. There is no obvious cookie dialogue or other pop-ups visible on the page."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 64.56383728981018,
+            "start_time": "2025-05-05T11:50:27.409440",
+            "end_time": "2025-05-05T11:51:33.060484",
+            "input_tokens": 40429,
+            "final_result": "Successfully added a product to the cart and navigated to the checkout page showing the cart overview."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 18,
+            "duration": 124.72389793395996,
+            "start_time": "2025-05-05T11:51:33.224070",
+            "end_time": "2025-05-05T11:53:39.065227",
+            "input_tokens": 131421,
+            "final_result": "Successfully navigated to checkout and filled in all the form fields. The order is now being processed."
+        }
+    },
+    "impericon.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 34.93485164642334,
+            "start_time": "2025-05-05T11:57:27.039064",
+            "end_time": "2025-05-05T11:58:03.143300",
+            "input_tokens": 17028,
+            "final_result": "Successfully navigated to impericon.com, accepted cookies, and no other pop-ups were visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 76.4360294342041,
+            "start_time": "2025-05-05T11:58:03.631116",
+            "end_time": "2025-05-05T11:59:21.325593",
+            "input_tokens": 43287,
+            "final_result": "Successfully found a product, added it to the cart, and navigated to the cart overview. The cart contains 1 item."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 18,
+            "duration": 128.06536626815796,
+            "start_time": "2025-05-05T11:59:21.548908",
+            "end_time": "2025-05-05T12:01:30.882600",
+            "input_tokens": 133138,
+            "final_result": "The order is being processed. The checkout process is complete."
+        }
+    },
+    "asphaltgold.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 27.691595315933228,
+            "start_time": "2025-05-05T12:03:52.814043",
+            "end_time": "2025-05-05T12:04:21.719154",
+            "input_tokens": 14892,
+            "final_result": "Successfully navigated to asphaltgold.com, accepted cookies, and closed a pop-up. No other pop-ups are visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 52.70055389404297,
+            "start_time": "2025-05-05T12:04:22.034815",
+            "end_time": "2025-05-05T12:05:15.815194",
+            "input_tokens": 28047,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview. The cart contains 'Arcteryx Kragg Cotton Logo T-Shirt'."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 205.4947829246521,
+            "start_time": "2025-05-05T12:05:16.157175",
+            "end_time": "2025-05-05T12:08:42.763328",
+            "input_tokens": 238327,
+            "final_result": "I have navigated to the checkout page and filled in the contact, shipping, and payment information. However, the payment failed to process after multiple attempts. The task is not fully completed as the form was not successfully submitted."
+        }
+    },
+    "livefastdieyoung.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 36.883989572525024,
+            "start_time": "2025-05-05T12:11:18.056126",
+            "end_time": "2025-05-05T12:11:56.105317",
+            "input_tokens": 14466,
+            "final_result": "Successfully navigated to livefastdieyoung.com, accepted cookies, and no other pop-ups appeared."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 95.17834997177124,
+            "start_time": "2025-05-05T12:11:56.723789",
+            "end_time": "2025-05-05T12:13:33.214676",
+            "input_tokens": 41640,
+            "final_result": "Successfully added a basketball to the cart and navigated to the cart overview."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 213.96729731559753,
+            "start_time": "2025-05-05T12:13:33.470860",
+            "end_time": "2025-05-05T12:17:08.671383",
+            "input_tokens": 241421,
+            "final_result": "I have navigated to the checkout page, filled in the contact and shipping information, selected the standard delivery option, filled in the credit card details (card number: 5127 8809 9999 9990, expiry date: 03/30, security code: 737, name on card: David Lauterbach), and attempted to submit the form. The payment failed, but according to the instructions, the task is complete as the form has been submitted."
+        }
+    },
+    "purelei.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 63.90153408050537,
+            "start_time": "2025-05-05T12:18:51.695356",
+            "end_time": "2025-05-05T12:19:57.158488",
+            "input_tokens": 23248,
+            "final_result": "Successfully navigated to purelei.com, accepted cookies, selected the German webshop, and no other pop-ups are visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 76.66842675209045,
+            "start_time": "2025-05-05T12:19:57.725808",
+            "end_time": "2025-05-05T12:21:15.484699",
+            "input_tokens": 27591,
+            "final_result": "Successfully found and added the 'Seafoam Kette' to the cart and navigated to the checkout page showing the cart overview."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 222.9940402507782,
+            "start_time": "2025-05-05T12:21:15.675434",
+            "end_time": "2025-05-05T12:25:00.001476",
+            "input_tokens": 262206,
+            "final_result": "Attempted to complete the checkout process by filling in all personal, address, and credit card information. The credit card was declined, and I was unable to successfully submit the form after multiple attempts."
+        }
+    },
+    "taschen.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 36.066784620285034,
+            "start_time": "2025-05-05T12:28:58.960600",
+            "end_time": "2025-05-05T12:29:36.305280",
+            "input_tokens": 19522,
+            "final_result": "Successfully navigated to taschen.com, accepted cookies, and closed the language pop-up. There are no other pop-ups visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 34.6496787071228,
+            "start_time": "2025-05-05T12:29:36.518116",
+            "end_time": "2025-05-05T12:30:12.226300",
+            "input_tokens": 17836,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview page. The product '75 Years of Atlantic Records' is in the cart."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 211.1819977760315,
+            "start_time": "2025-05-05T12:30:12.395328",
+            "end_time": "2025-05-05T12:33:44.791848",
+            "input_tokens": 282601,
+            "final_result": "I have filled in the personal information (email, first name, last name, address, country, ZIP code, city, phone number) and the credit card details (number, name on card, expiry date, security code). I was unable to find and click the terms and conditions checkbox and the final submit button within the given steps."
+        }
+    },
+    "lamy.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 17.862956047058105,
+            "start_time": "2025-05-05T12:33:50.021248",
+            "end_time": "2025-05-05T12:34:09.014518",
+            "input_tokens": 10755,
+            "final_result": "Navigated to lamy.com and no cookie dialogue or pop-up was present."
+        },
+        "product_selection_agent": {
+            "status": "failure",
+            "steps_taken": 17,
+            "duration": 139.3126130104065,
+            "start_time": "2025-05-05T12:34:09.258494",
+            "end_time": "2025-05-05T12:36:29.926511",
+            "input_tokens": 120886,
+            "final_result": "I was unable to find a product listing page on lamy.com. All attempts to navigate to a product category or view products resulted in being redirected to a 'Find a retailer' page or a general information page. The website's navigation structure makes it impossible to complete the task of finding and adding a product to the cart."
+        }
+    },
+    "wildling.shoes": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 26.799479246139526,
+            "start_time": "2025-05-05T12:42:54.571751",
+            "end_time": "2025-05-05T12:43:22.610305",
+            "input_tokens": 16554,
+            "final_result": "Accepted cookies and closed the chat pop-up. No other pop-ups are visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 9,
+            "duration": 82.39686012268066,
+            "start_time": "2025-05-05T12:43:22.860409",
+            "end_time": "2025-05-05T12:44:46.364696",
+            "input_tokens": 55809,
+            "final_result": "Successfully found and added the 'Tanuki Koi' shoes in size EU 40 and color Koi to the cart. The cart overview is now displayed with the product in the cart."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 16,
+            "duration": 114.42271208763123,
+            "start_time": "2025-05-05T12:44:46.534091",
+            "end_time": "2025-05-05T12:46:42.906320",
+            "input_tokens": 128976,
+            "final_result": "The checkout form has been submitted, but the payment failed. The task is complete as per the instructions."
+        }
+    },
+    "esn.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 26.9874050617218,
+            "start_time": "2025-05-05T12:46:50.040556",
+            "end_time": "2025-05-05T12:47:18.303686",
+            "input_tokens": 14829,
+            "final_result": "Successfully navigated to esn.com, accepted cookies, and closed the location pop-up. No other pop-ups or cookie dialogues are visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 12,
+            "duration": 105.05173683166504,
+            "start_time": "2025-05-05T12:47:18.525546",
+            "end_time": "2025-05-05T12:49:04.818124",
+            "input_tokens": 71161,
+            "final_result": "Successfully added Isoclear Whey Protein Isolate to the cart and confirmed it is in the cart overview sidebar."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 17,
+            "duration": 125.3525881767273,
+            "start_time": "2025-05-05T12:49:05.031394",
+            "end_time": "2025-05-05T12:51:11.424563",
+            "input_tokens": 118261,
+            "final_result": "Successfully navigated to checkout, filled in all the form fields with the provided user data and credit card information, and submitted the form. The task is complete."
+        }
+    },
+    "northsails.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 41.11715364456177,
+            "start_time": "2025-05-05T12:52:25.586882",
+            "end_time": "2025-05-05T12:53:07.922218",
+            "input_tokens": 18748,
+            "final_result": "Successfully navigated to northsails.com and closed the pop-up. There was no cookie dialogue visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 95.89872694015503,
+            "start_time": "2025-05-05T12:53:08.355796",
+            "end_time": "2025-05-05T12:54:45.376903",
+            "input_tokens": 41927,
+            "final_result": "Successfully found a product, added it to the cart, and navigated to the checkout page (cart overview)."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 18,
+            "duration": 143.90515422821045,
+            "start_time": "2025-05-05T12:54:45.569011",
+            "end_time": "2025-05-05T12:57:10.860773",
+            "input_tokens": 160965,
+            "final_result": "I have filled in all the contact, delivery, and payment information, including the credit card details. I also checked the box to use the shipping address as the billing address. However, I was unable to submit the form by clicking the 'Continue' button (index 95) as the page did not change after multiple attempts. I am unable to proceed further with the checkout process."
+        }
+    },
+    "manucurist.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 39.58659863471985,
+            "start_time": "2025-05-05T12:57:16.320087",
+            "end_time": "2025-05-05T12:57:57.146179",
+            "input_tokens": 18992,
+            "final_result": "Successfully navigated to manucurist.com, accepted cookies, and closed the pop-up. No other pop-ups were found."
+        },
+        "product_selection_agent": {
+            "status": "failure",
+            "steps_taken": 20,
+            "duration": 234.47710728645325,
+            "start_time": "2025-05-05T12:57:57.395029",
+            "end_time": "2025-05-05T13:01:53.114322",
+            "input_tokens": 151093,
+            "final_result": "I have attempted to add the product to the cart multiple times. I successfully selected the product option and the colors in the modal. However, clicking 'Ajouter au panier' after selecting the colors and the option from the dropdown did not successfully add the product to the cart and navigate to the cart overview. The task is not fully completed as the product is not in the cart and the cart overview is not shown."
+        }
+    },
+    "polene-paris.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 35.020235776901245,
+            "start_time": "2025-05-05T13:01:59.101813",
+            "end_time": "2025-05-05T13:02:35.640605",
+            "input_tokens": 16041,
+            "final_result": "Successfully navigated to polene-paris.com, accepted cookies, and no other pop-ups were present."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 38.826027393341064,
+            "start_time": "2025-05-05T13:02:36.145224",
+            "end_time": "2025-05-05T13:03:16.258256",
+            "input_tokens": 22838,
+            "final_result": "Successfully found a product, added it to the cart, and navigated to the cart overview page. The 'Numero Dix Raphia' bag is in the cart."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 24,
+            "duration": 222.53334498405457,
+            "start_time": "2025-05-05T13:03:16.438256",
+            "end_time": "2025-05-05T13:07:00.257742",
+            "input_tokens": 241727,
+            "final_result": "I have filled in all the required form fields for contact, address, and payment information. I attempted to submit the form by clicking the 'Continuer' button (index 96) multiple times as it was the only visible submit-like button at the bottom of the page and in the image. However, clicking the button did not result in the form being submitted or the page changing. There were no visible error messages or alternative submission methods. Due to the inability to submit the form, I cannot complete the task."
+        }
+    },
+    "isabelmarant.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 38.5717499256134,
+            "start_time": "2025-05-05T13:07:06.403531",
+            "end_time": "2025-05-05T13:07:46.105729",
+            "input_tokens": 14594,
+            "final_result": "Successfully navigated to isabelmarant.com, accepted cookies, and no other pop-ups were found."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 75.23895382881165,
+            "start_time": "2025-05-05T13:07:46.295594",
+            "end_time": "2025-05-05T13:09:02.732969",
+            "input_tokens": 39799,
+            "final_result": "Successfully found and added FELSA LOAFERS in size 38 to the cart and navigated to the cart overview page."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 19,
+            "duration": 162.50352597236633,
+            "start_time": "2025-05-05T13:09:02.896969",
+            "end_time": "2025-05-05T13:11:46.371972",
+            "input_tokens": 148170,
+            "final_result": "The order is being processed. The checkout process is complete."
+        }
+    },
+    "merci-merci.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 39.81669855117798,
+            "start_time": "2025-05-05T13:11:51.811003",
+            "end_time": "2025-05-05T13:12:32.855437",
+            "input_tokens": 14779,
+            "final_result": "Successfully navigated to merci-merci.com, accepted cookies, and no other pop-ups appeared."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 65.69187307357788,
+            "start_time": "2025-05-05T13:12:33.253450",
+            "end_time": "2025-05-05T13:13:40.005395",
+            "input_tokens": 32282,
+            "final_result": "Successfully found a product, added it to the cart, and navigated to the checkout page which shows the product in the cart. Task completed."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 263.97120237350464,
+            "start_time": "2025-05-05T13:13:40.170418",
+            "end_time": "2025-05-05T13:18:05.413346",
+            "input_tokens": 273188,
+            "final_result": "I have navigated to the checkout page and filled in all the required form fields, including contact information, delivery address, and payment details (credit card number, name on card, expiry date, and security code). I have also selected the standard delivery option. I have attempted to submit the form by clicking the 'Payer maintenant' button."
+        }
+    },
+    "wethenew.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 21.27000403404236,
+            "start_time": "2025-05-05T13:18:10.693089",
+            "end_time": "2025-05-05T13:18:33.136314",
+            "input_tokens": 11195,
+            "final_result": "Successfully navigated to wethenew.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 57.65400052070618,
+            "start_time": "2025-05-05T13:18:33.456732",
+            "end_time": "2025-05-05T13:19:32.248763",
+            "input_tokens": 33884,
+            "final_result": "Successfully added ASICS Gel-Kayano 14 White Midnight (Size 37 EU) to the cart. The cart overview is shown and the product is in the cart."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 242.20357465744019,
+            "start_time": "2025-05-05T13:19:32.397290",
+            "end_time": "2025-05-05T13:23:37.398524",
+            "input_tokens": 266747,
+            "final_result": "I have navigated to the checkout page and filled in all the form fields including contact information (Email: dlauterbachaa+wethenew.com@gmail.com, Country: France, First Name: David, Last Name: Lauterbach, Address: Rue Victor Cousin 1, ZIP Code: 75005, City: Paris, Phone Number: +33610666475) and payment information (Card number: 5127 8809 9999 9990, Expiry Date: 03/30, Security Code: 737, Name on card: David Lauterbach). I have attempted to click the submit button multiple times. The task is considered complete as per the instructions if the payment is processing or has failed."
+        }
+    },
+    "lecoqsportif.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 68.9963550567627,
+            "start_time": "2025-05-05T13:23:41.789495",
+            "end_time": "2025-05-05T13:24:52.008187",
+            "input_tokens": 14974,
+            "final_result": "Successfully navigated to lecoqsportif.com, accepted cookies, and closed the newsletter pop-up. There are no other pop-ups or cookie dialogues visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 108.97380828857422,
+            "start_time": "2025-05-05T13:24:52.373203",
+            "end_time": "2025-05-05T13:26:43.538812",
+            "input_tokens": 36412,
+            "final_result": "Successfully added the Bomber HERITAGE Homme in size S to the cart and navigated to the cart overview."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 269.40508675575256,
+            "start_time": "2025-05-05T13:26:43.748817",
+            "end_time": "2025-05-05T13:31:15.447146",
+            "input_tokens": 272833,
+            "final_result": "I have filled in the contact and shipping information (email, first name, last name, address, ZIP code, city, and phone number). I have scrolled down and identified the payment options and the 'Payer maintenant' button. I was unable to select the payment method and click the button due to reaching the maximum number of steps."
+        }
+    },
+    "atoleajewelry.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 41.87928819656372,
+            "start_time": "2025-05-05T13:31:20.874774",
+            "end_time": "2025-05-05T13:32:03.897992",
+            "input_tokens": 18472,
+            "final_result": "Successfully navigated to atoleajewelry.com, accepted cookies, and closed the pop-up. No other pop-ups or cookie dialogues are visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 19,
+            "duration": 234.22111177444458,
+            "start_time": "2025-05-05T13:32:04.197982",
+            "end_time": "2025-05-05T13:35:59.751929",
+            "input_tokens": 123310,
+            "final_result": "Successfully added the Rainbow Dainty Choker to the cart and navigated to the checkout page which shows the product in the order summary."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 14,
+            "duration": 159.4347312450409,
+            "start_time": "2025-05-05T13:35:59.920939",
+            "end_time": "2025-05-05T13:38:40.845505",
+            "input_tokens": 120371,
+            "final_result": "Successfully navigated to checkout, filled in all the form fields with the provided information, and submitted the form. The order is now being processed."
+        }
+    },
+    "lancaster.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 46.684678077697754,
+            "start_time": "2025-05-05T13:39:25.812100",
+            "end_time": "2025-05-05T13:40:14.077747",
+            "input_tokens": 11470,
+            "final_result": "Successfully navigated to lancaster.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 84.99004793167114,
+            "start_time": "2025-05-05T13:40:14.323909",
+            "end_time": "2025-05-05T13:41:40.626351",
+            "input_tokens": 36058,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview. The product 'Sac seau - So Osier - Camel' is in the cart."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 237.66250109672546,
+            "start_time": "2025-05-05T13:41:40.901755",
+            "end_time": "2025-05-05T13:45:39.766170",
+            "input_tokens": 271910,
+            "final_result": "Could not complete the checkout process. I have filled in the contact, shipping, and payment information, but I was unable to select the standard shipping option despite multiple attempts. I also accepted the terms and conditions. I could not proceed to submit the order."
+        }
+    },
+    "juliettehasagun.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 20.833218574523926,
+            "start_time": "2025-05-05T13:48:47.609576",
+            "end_time": "2025-05-05T13:49:09.583680",
+            "input_tokens": 11006,
+            "final_result": "Accepted cookies and no other pop-ups were found."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 89.53388810157776,
+            "start_time": "2025-05-05T13:49:09.925333",
+            "end_time": "2025-05-05T13:50:40.609718",
+            "input_tokens": 42587,
+            "final_result": "Successfully added 'Miami Shake' to the cart and navigated to the cart overview page. The cart contains 'Miami Shake', a Mini Bougie Miami Shake, and a Miami Shake Echantillon."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 218.17725324630737,
+            "start_time": "2025-05-05T13:50:40.753865",
+            "end_time": "2025-05-05T13:54:19.950924",
+            "input_tokens": 292259,
+            "final_result": "I have filled in the contact, delivery address, and payment information (card number, expiry date, security code, and name on card). I have not yet selected the standard delivery option or submitted the form."
+        }
+    },
+    "rouje.com": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 5,
+            "duration": 32.17619276046753,
+            "start_time": "2025-05-05T18:06:15.781105",
+            "end_time": "2025-05-05T18:06:48.982593",
+            "input_tokens": 18167,
+            "final_result": null
+        }
+    },
+    "coldcultureworldwide.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 79.73015213012695,
+            "start_time": "2025-05-05T13:59:27.226051",
+            "end_time": "2025-05-05T14:00:48.344798",
+            "input_tokens": 24079,
+            "final_result": "Successfully navigated to coldcultureworldwide.com, accepted cookies, waited, and closed the pop-up. There are no other visible pop-ups or cookie dialogues."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 67.81577014923096,
+            "start_time": "2025-05-05T14:00:48.965997",
+            "end_time": "2025-05-05T14:01:58.169529",
+            "input_tokens": 32151,
+            "final_result": "Successfully found and added a product (COLD FLAMES TEE ORANGE) to the cart and navigated to the checkout page."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 212.18309593200684,
+            "start_time": "2025-05-05T14:01:58.337042",
+            "end_time": "2025-05-05T14:05:31.736424",
+            "input_tokens": 298697,
+            "final_result": "I have filled in the contact and payment information, including email address, first name, last name, country, address, postal code, city, province, phone number, card number, name on card, expiry date, and security code. I attempted to select the standard delivery option ('24/48h Shipping') and submit the form, but the submission failed and the page is still asking to select a shipping method. The form was not successfully submitted."
+        }
+    },
+    "palomawool.com": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 10,
+            "duration": 67.19571137428284,
+            "start_time": "2025-05-05T14:05:40.171468",
+            "end_time": "2025-05-05T14:06:48.523811",
+            "input_tokens": 44042,
+            "final_result": "Navigated to palomawool.com and clicked on the country selection button. I have scrolled down multiple times to find Spain but it is not visible in the current viewport. I have not been able to select Spain or handle the cookie banner/pop-ups within the given steps."
+        }
+    },
+    "dondisfraz.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 31.80517888069153,
+            "start_time": "2025-05-05T14:06:52.486051",
+            "end_time": "2025-05-05T14:07:25.595025",
+            "input_tokens": 14617,
+            "final_result": "Navigated to dondisfraz.com, accepted cookies, and no other pop-ups were visible in the initial viewport."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 10,
+            "duration": 96.17630624771118,
+            "start_time": "2025-05-05T14:07:25.971922",
+            "end_time": "2025-05-05T14:09:03.600605",
+            "input_tokens": 56581,
+            "final_result": "Successfully added the 'Seehecht Kostüm für Erwachsene' to the cart and navigated to the cart overview."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 234.2951922416687,
+            "start_time": "2025-05-05T14:09:03.851631",
+            "end_time": "2025-05-05T14:12:59.197641",
+            "input_tokens": 279830,
+            "final_result": "Attempted to navigate to checkout and fill in all form fields. Filled in user data (Email: dlauterbachaa+dondisfraz.com@gmail.com, Country: Spain, First Name: David, Last Name: Lauterbach, Address: Carrer de la Immaculada 2, ZIP Code: 08017, City: Barcelona, Province: Barcelona, Phone Number: +34610666475) and payment information (Credit Card, Card number: 5127 8809 9999 9990, Expiry Date: 03/30, Security Code: 737, Name on card: David Lauterbach). Selected standard delivery. Attempted to submit the form multiple times by clicking 'Fortsetzen' and 'Jetzt kaufen' buttons, but the page reloaded and required re-filling some fields. Re-filled the necessary fields. The form was not successfully submitted and accepted."
+        }
+    },
+    "smalltattoos.com": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 10,
+            "duration": 72.69642233848572,
+            "start_time": "2025-05-05T14:13:04.378263",
+            "end_time": "2025-05-05T14:14:18.271504",
+            "input_tokens": 41929,
+            "final_result": "Navigated to smalltattoos.com, accepted the cookie policy, but was unable to permanently close the chat window pop-up as it kept reappearing."
+        }
+    },
+    "castaner.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 63.73370552062988,
+            "start_time": "2025-05-05T14:14:22.230813",
+            "end_time": "2025-05-05T14:15:27.175528",
+            "input_tokens": 32272,
+            "final_result": "Navigated to castaner.com, accepted cookies, waited, and closed the video pop-up. The chat pop-up remains but I have attempted to close it multiple times. There are no other obvious pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 56.32092761993408,
+            "start_time": "2025-05-05T14:15:27.497532",
+            "end_time": "2025-05-05T14:16:25.148132",
+            "input_tokens": 27462,
+            "final_result": "Successfully added the product 'CAREEN/6/274' in size 37 to the cart and navigated to the cart overview."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 16,
+            "duration": 110.81585478782654,
+            "start_time": "2025-05-05T14:16:25.414278",
+            "end_time": "2025-05-05T14:18:17.809306",
+            "input_tokens": 113513,
+            "final_result": "Failed to proceed to the next step after filling in the contact and shipping information. The 'Continue' button did not navigate to the next page after multiple attempts."
+        }
+    },
+    "mellerbrand.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 34.90836429595947,
+            "start_time": "2025-05-05T14:21:56.406180",
+            "end_time": "2025-05-05T14:22:32.502335",
+            "input_tokens": 17004,
+            "final_result": "Successfully navigated to mellerbrand.com, accepted cookies, and found no other pop-ups to close."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 54.72669529914856,
+            "start_time": "2025-05-05T14:22:32.959373",
+            "end_time": "2025-05-05T14:23:28.655971",
+            "input_tokens": 27553,
+            "final_result": "Successfully added 'Nun Tigris Olive' to the cart and navigated to the cart overview page."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 215.2833263874054,
+            "start_time": "2025-05-05T14:23:28.827763",
+            "end_time": "2025-05-05T14:27:05.284920",
+            "input_tokens": 270688,
+            "final_result": "I have navigated to the checkout page and filled in all the form fields with the provided user data and credit card information. The contact and delivery information entered is: Email: dlauterbachaa+mellerbrand.com@gmail.com, Country: Spain, First Name: David, Last Name: Lauterbach, Address: Carrer de la Immaculada 2, ZIP Code: 08017, City: Barcelona, Province: Barcelona, Phone Number: +34610666475. The credit card information entered is: Card number: 5127 8809 9999 9990, Expiry Date: 03/30, Security Code: 737, Name on card: David Lauterbach. I am ready to submit the form."
+        }
+    },
+    "tatteco.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 29.686164140701294,
+            "start_time": "2025-05-05T14:27:10.785395",
+            "end_time": "2025-05-05T14:27:41.539383",
+            "input_tokens": 17913,
+            "final_result": "Successfully navigated to tatteco.com, accepted cookies, waited, and no other pop-ups appeared."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 35.99027347564697,
+            "start_time": "2025-05-05T14:27:41.795906",
+            "end_time": "2025-05-05T14:28:18.837806",
+            "input_tokens": 26018,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview page. The cart contains one 'Fine Line Infinity Love Temporary Tattoo - Set of 3'."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 227.1460394859314,
+            "start_time": "2025-05-05T14:28:19.002804",
+            "end_time": "2025-05-05T14:32:08.244767",
+            "input_tokens": 285914,
+            "final_result": "I have navigated to the checkout page and filled in all the contact, delivery, and payment information as requested. I have attempted to submit the form multiple times by clicking various buttons, but the form has not been successfully submitted. Therefore, the task is not fully completed."
+        }
+    },
+    "thehoffbrand.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 36.46974205970764,
+            "start_time": "2025-05-05T14:32:13.056935",
+            "end_time": "2025-05-05T14:32:51.056293",
+            "input_tokens": 18159,
+            "final_result": "Successfully navigated to thehoffbrand.com, accepted cookies, and found no other pop-ups to close."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 48.57276773452759,
+            "start_time": "2025-05-05T14:32:51.509803",
+            "end_time": "2025-05-05T14:33:41.050067",
+            "input_tokens": 27537,
+            "final_result": "Successfully added a product to the cart and reached the checkout page with the product in the cart."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 194.81855964660645,
+            "start_time": "2025-05-05T14:33:41.198285",
+            "end_time": "2025-05-05T14:36:57.085204",
+            "input_tokens": 268248,
+            "final_result": "I have filled in the Country, Email, First Name, Last Name, Address, Postal Code, and City fields. I still need to fill in the Province and Phone Number fields, select 'Home delivery', accept the terms and conditions, and click the 'Continue to shipping' button to complete the checkout process."
+        }
+    },
+    "farmaciasdirect.eu": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 29.09804892539978,
+            "start_time": "2025-05-05T14:37:01.451607",
+            "end_time": "2025-05-05T14:37:31.752067",
+            "input_tokens": 15302,
+            "final_result": "Successfully navigated to farmaciasdirect.eu, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 60.489654302597046,
+            "start_time": "2025-05-05T14:37:31.946576",
+            "end_time": "2025-05-05T14:38:33.541257",
+            "input_tokens": 36033,
+            "final_result": "Successfully added a product to the cart and reached the checkout page which shows the cart contents."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 19,
+            "duration": 126.03875970840454,
+            "start_time": "2025-05-05T14:38:33.687257",
+            "end_time": "2025-05-05T14:40:41.025960",
+            "input_tokens": 134820,
+            "final_result": "The checkout process is complete. The order is being processed."
+        }
+    },
+    "pdpaola.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 38.365992069244385,
+            "start_time": "2025-05-05T14:40:45.551423",
+            "end_time": "2025-05-05T14:41:25.100786",
+            "input_tokens": 17894,
+            "final_result": "Successfully navigated to pdpaola.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 52.63625240325928,
+            "start_time": "2025-05-05T14:41:25.613512",
+            "end_time": "2025-05-05T14:42:19.820425",
+            "input_tokens": 29859,
+            "final_result": "Successfully added 'La Perla Mini hoops' to the cart and the shopping bag is displayed."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 242.13421034812927,
+            "start_time": "2025-05-05T14:42:20.093425",
+            "end_time": "2025-05-05T14:46:24.423405",
+            "input_tokens": 304716,
+            "final_result": "I have filled in the contact and delivery information (Email, Country, First Name, Last Name, Address, Postal Code, City, Province, Phone). I was not able to fill in the shipping and payment information and submit the form because I reached the maximum number of steps."
+        }
+    },
+    "alessi.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 2,
+            "duration": 14.1500883102417,
+            "start_time": "2025-05-05T16:24:28.542279",
+            "end_time": "2025-05-05T16:24:44.082667",
+            "input_tokens": 6759,
+            "final_result": "Successfully navigated to alessi.com and found no cookie dialogue or other pop-ups to close."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 50.2128221988678,
+            "start_time": "2025-05-05T16:24:44.396480",
+            "end_time": "2025-05-05T16:25:35.786973",
+            "input_tokens": 27196,
+            "final_result": "Successfully added a product to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 22,
+            "duration": 159.24861693382263,
+            "start_time": "2025-05-05T16:25:35.954491",
+            "end_time": "2025-05-05T16:28:16.257940",
+            "input_tokens": 181781,
+            "final_result": "The checkout process is complete. The order is being processed."
+        }
+    },
+    "kappa.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 36.942838191986084,
+            "start_time": "2025-05-05T16:39:55.708665",
+            "end_time": "2025-05-05T16:40:33.567878",
+            "input_tokens": 18423,
+            "final_result": "Navigated to kappa.com, accepted the cookie notice, waited for a moment, and closed a pop-up. There are no other obvious pop-ups or cookie dialogues visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 48.94689416885376,
+            "start_time": "2025-05-05T16:40:33.984432",
+            "end_time": "2025-05-05T16:41:24.076212",
+            "input_tokens": 28136,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 25,
+            "duration": 183.21230554580688,
+            "start_time": "2025-05-05T16:41:24.287194",
+            "end_time": "2025-05-05T16:44:28.516068",
+            "input_tokens": 211587,
+            "final_result": "Successfully navigated to checkout and filled in all the form fields. The form has been submitted and the payment is processing."
+        }
+    },
+    "k-way.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 27.991546869277954,
+            "start_time": "2025-05-05T16:44:33.459766",
+            "end_time": "2025-05-05T16:45:02.482145",
+            "input_tokens": 15779,
+            "final_result": "Successfully navigated to k-way.com, accepted cookies, and no other pop-ups appeared."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 42.822503089904785,
+            "start_time": "2025-05-05T16:45:02.782574",
+            "end_time": "2025-05-05T16:45:46.714023",
+            "input_tokens": 25377,
+            "final_result": "Successfully added the product to the cart and the cart overview is shown."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 243.6610813140869,
+            "start_time": "2025-05-05T16:45:46.908791",
+            "end_time": "2025-05-05T16:49:51.793868",
+            "input_tokens": 278035,
+            "final_result": "Attempted to complete the checkout process. Filled in the following information: Email: dlauterbachaa+k-way.com@gmail.com, First Name: David, Last Name: Lauterbach, Country: Italy, Address: Piazzale Aldo Moro 5, Postal Code: 00185, City: Roma, Province: Rome, Card Number: 5127 8809 9999 9990, Name on Card: David Lauterbach, Expiry Date: 03/30, Security Code: 737. I was unable to confirm the selection of the standard delivery option as clicking the element did not change the page state. I have clicked the submit button."
+        }
+    },
+    "eu.clivechristian.com": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 3,
+            "duration": 14.157685279846191,
+            "start_time": "2025-05-05T16:49:56.858945",
+            "end_time": "2025-05-05T16:50:12.100851",
+            "input_tokens": 10127,
+            "final_result": null
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 48.90818691253662,
+            "start_time": "2025-05-05T15:06:35.116013",
+            "end_time": "2025-05-05T15:07:25.435353",
+            "input_tokens": 28506,
+            "final_result": "Successfully added 'L Red Tea Vetiver' to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 27,
+            "duration": 183.6207365989685,
+            "start_time": "2025-05-05T15:07:25.595354",
+            "end_time": "2025-05-05T15:10:31.248451",
+            "input_tokens": 227892,
+            "final_result": "Attempted to complete the checkout form by filling in all the provided details and clicking the submit button. The form did not appear to submit successfully after multiple attempts. All available fields were filled with the provided information."
+        }
+    },
+    "savetheduck.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 19.110058307647705,
+            "start_time": "2025-05-05T16:50:16.190790",
+            "end_time": "2025-05-05T16:50:36.457830",
+            "input_tokens": 11172,
+            "final_result": "Successfully navigated to savetheduck.com, accepted cookies, and found no other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 50.160709619522095,
+            "start_time": "2025-05-05T16:50:36.646261",
+            "end_time": "2025-05-05T16:51:27.907971",
+            "input_tokens": 29557,
+            "final_result": "Successfully added the product 'Woman's jacket Greta in black' to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 19,
+            "duration": 131.54736423492432,
+            "start_time": "2025-05-05T16:51:28.076708",
+            "end_time": "2025-05-05T16:53:40.660645",
+            "input_tokens": 152011,
+            "final_result": "Successfully filled in all the form fields and submitted the payment information."
+        }
+    },
+    "p448.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 38.02089047431946,
+            "start_time": "2025-05-05T16:53:46.091236",
+            "end_time": "2025-05-05T16:54:25.110051",
+            "input_tokens": 14380,
+            "final_result": "Successfully navigated to p448.com, accepted cookies, and no other pop-ups appeared."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 10,
+            "duration": 97.26749873161316,
+            "start_time": "2025-05-05T16:54:25.610885",
+            "end_time": "2025-05-05T16:56:04.247086",
+            "input_tokens": 55633,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview. The cart contains one item, 'John Ta'Ape Blue'."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 223.69618797302246,
+            "start_time": "2025-05-05T16:56:04.546827",
+            "end_time": "2025-05-05T16:59:49.489528",
+            "input_tokens": 294012,
+            "final_result": "I have filled in all the contact, delivery, and payment information. However, I was unable to submit the form due to a persistent format error in the expiry date field, despite multiple attempts to correct it using different indices."
+        }
+    },
+    "alyxstudio.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 3,
+            "duration": 17.87627100944519,
+            "start_time": "2025-05-05T16:59:55.586930",
+            "end_time": "2025-05-05T17:00:15.069326",
+            "input_tokens": 10683,
+            "final_result": "Successfully navigated to alyxstudio.com and no cookie dialogue or pop-ups were present after the initial load."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 61.225772857666016,
+            "start_time": "2025-05-05T17:00:15.220249",
+            "end_time": "2025-05-05T17:01:18.063513",
+            "input_tokens": 40093,
+            "final_result": "Successfully added 'LIGHTWEIGHT BUCKLE PUFFER JACKET' in size S to the cart and navigated to the cart overview."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 22,
+            "duration": 137.74678778648376,
+            "start_time": "2025-05-05T17:01:18.206514",
+            "end_time": "2025-05-05T17:03:37.222016",
+            "input_tokens": 161161,
+            "final_result": "Successfully navigated to checkout and filled in all the form fields. The form has been submitted and is currently processing."
+        }
+    },
+    "dolceterra.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 35.90423130989075,
+            "start_time": "2025-05-05T17:03:42.428851",
+            "end_time": "2025-05-05T17:04:20.551103",
+            "input_tokens": 20266,
+            "final_result": "Successfully navigated to dolceterra.com, accepted cookies, and closed all visible pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 37.328314542770386,
+            "start_time": "2025-05-05T17:04:20.897073",
+            "end_time": "2025-05-05T17:04:59.414303",
+            "input_tokens": 19170,
+            "final_result": "Successfully added the product to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 22,
+            "duration": 156.20892810821533,
+            "start_time": "2025-05-05T17:04:59.604085",
+            "end_time": "2025-05-05T17:07:38.517497",
+            "input_tokens": 189651,
+            "final_result": "A hCaptcha challenge appeared, which prevents me from submitting the form. I cannot proceed with the checkout process."
+        }
+    },
+    "anndemeulemeester.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 26.79099726676941,
+            "start_time": "2025-05-05T17:07:43.671261",
+            "end_time": "2025-05-05T17:08:11.719004",
+            "input_tokens": 17334,
+            "final_result": "Successfully navigated to anndemeulemeester.com, accepted cookies, and closed the pop-up. No other pop-ups or cookie dialogues are visible."
+        },
+        "product_selection_agent": {
+            "status": "failure",
+            "steps_taken": 20,
+            "duration": 173.20752620697021,
+            "start_time": "2025-05-05T17:08:12.026530",
+            "end_time": "2025-05-05T17:11:06.512386",
+            "input_tokens": 160249,
+            "final_result": "I was unable to complete the task because I could not navigate to a product listing page. The website's navigation appears to be broken, preventing me from finding and adding a product to the cart."
+        }
+    },
+    "grimfrost.eu": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 10,
+            "duration": 89.16046500205994,
+            "start_time": "2025-05-05T17:11:10.419757",
+            "end_time": "2025-05-05T17:12:41.060594",
+            "input_tokens": 42984,
+            "final_result": "Navigated to grimfrost.eu. Encountered a country/language selection pop-up instead of a cookie consent. I attempted to scroll down to find Sweden in the country list but was unable to locate it within the given steps. The task is not fully completed as I could not select the country and proceed."
+        }
+    },
+    "agood.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 2,
+            "duration": 14.521000862121582,
+            "start_time": "2025-05-05T17:12:45.449112",
+            "end_time": "2025-05-05T17:13:02.344706",
+            "input_tokens": 6913,
+            "final_result": "Navigated to agood.com and no obvious cookie dialogue or pop-up was present in the initial view. Task completed as per instructions."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 13,
+            "duration": 112.5079460144043,
+            "start_time": "2025-05-05T17:13:02.637600",
+            "end_time": "2025-05-05T17:14:56.614613",
+            "input_tokens": 78067,
+            "final_result": "Successfully added a product to the cart and navigated to the checkout page. The product is visible in the order summary."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 18,
+            "duration": 139.24322628974915,
+            "start_time": "2025-05-05T17:14:56.803272",
+            "end_time": "2025-05-05T17:17:17.405614",
+            "input_tokens": 165137,
+            "final_result": "The checkout form has been filled and the order is being processed."
+        }
+    },
+    "eu.flattered.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 42.90232467651367,
+            "start_time": "2025-05-05T17:17:24.689823",
+            "end_time": "2025-05-05T17:18:09.083255",
+            "input_tokens": 23731,
+            "final_result": "Successfully navigated to eu.flattered.com, accepted cookies, waited, and closed the pop-up. There are no other pop-ups visible."
+        },
+        "product_selection_agent": {
+            "status": "failure",
+            "steps_taken": 20,
+            "duration": 192.2276520729065,
+            "start_time": "2025-05-05T17:18:09.396936",
+            "end_time": "2025-05-05T17:21:23.304874",
+            "input_tokens": 162348,
+            "final_result": "I navigated to the 'Shoes' category page and attempted to find an in-stock product in the 'Loafers' and 'Flats' subcategories. All products I checked were out of stock. I was unable to find an in-stock product to add to the cart within the given steps."
+        }
+    },
+    "boxbollen.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 33.362696170806885,
+            "start_time": "2025-05-05T17:21:32.139537",
+            "end_time": "2025-05-05T17:22:06.862496",
+            "input_tokens": 16640,
+            "final_result": "Navigated to boxbollen.com, selected the Swedish webshop, and found no cookie dialogue or other pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 39.62791442871094,
+            "start_time": "2025-05-05T17:22:07.132023",
+            "end_time": "2025-05-05T17:22:49.553722",
+            "input_tokens": 25155,
+            "final_result": "Successfully added the 'Red 3-Pack' to the cart and navigated to the checkout page, which serves as the cart overview. The product is listed in the order summary."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 15,
+            "duration": 116.71793603897095,
+            "start_time": "2025-05-05T17:22:49.727509",
+            "end_time": "2025-05-05T17:24:47.739053",
+            "input_tokens": 128291,
+            "final_result": "The form submission failed because a captcha appeared. I cannot proceed further as per the instructions."
+        }
+    },
+    "belartestudio.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 45.414111375808716,
+            "start_time": "2025-05-05T17:43:14.248343",
+            "end_time": "2025-05-05T17:44:00.892677",
+            "input_tokens": 27303,
+            "final_result": "Successfully navigated to belartestudio.com, accepted cookies, waited, and closed the pop-ups."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 54.282748222351074,
+            "start_time": "2025-05-05T17:44:01.268465",
+            "end_time": "2025-05-05T17:44:56.680141",
+            "input_tokens": 30757,
+            "final_result": "Successfully added a product to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 224.69717049598694,
+            "start_time": "2025-05-05T17:44:56.928134",
+            "end_time": "2025-05-05T17:48:42.774888",
+            "input_tokens": 290578,
+            "final_result": "I have attempted to fill in the delivery and billing address information, as well as the payment details. However, the page keeps re-rendering and asking for the billing address again. I have reached the maximum number of steps and could not successfully submit the form."
+        }
+    },
+    "apm.mc": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 7,
+            "duration": 53.50736331939697,
+            "start_time": "2025-05-05T17:37:52.935854",
+            "end_time": "2025-05-05T17:38:47.804986",
+            "input_tokens": 29054,
+            "final_result": "Navigated to apm.mc, accepted cookies, and closed the newsletter pop-up. There are no other obvious pop-ups visible."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 38.77060294151306,
+            "start_time": "2025-05-05T17:38:48.030494",
+            "end_time": "2025-05-05T17:39:28.358283",
+            "input_tokens": 20742,
+            "final_result": "Successfully found a product, added it to the cart, and reached the checkout page."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 30,
+            "duration": 219.26998710632324,
+            "start_time": "2025-05-05T17:39:28.535794",
+            "end_time": "2025-05-05T17:43:09.015479",
+            "input_tokens": 299581,
+            "final_result": "Successfully navigated to checkout, filled in all the form fields with the provided user and payment information, and submitted the form. The order is now being processed."
+        }
+    },
+    "twinkles.net": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 5,
+            "duration": 43.11768889427185,
+            "start_time": "2025-05-05T17:48:48.675208",
+            "end_time": "2025-05-05T17:49:33.143965",
+            "input_tokens": 26032,
+            "final_result": "Successfully navigated to twinkles.net, accepted the cookie policy, waited, and no other pop-ups were visible in the viewport. The task is complete."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 4,
+            "duration": 36.70397162437439,
+            "start_time": "2025-05-05T17:49:33.484959",
+            "end_time": "2025-05-05T17:50:11.426179",
+            "input_tokens": 19683,
+            "final_result": "Successfully added the product 'XL Heart' to the cart and the cart overview is displayed."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 30,
+            "duration": 223.4793176651001,
+            "start_time": "2025-05-05T17:50:11.632470",
+            "end_time": "2025-05-05T17:53:56.289114",
+            "input_tokens": 257111,
+            "final_result": "I have filled in the contact, delivery, and payment information (card number, name on card, expiry date, and security code). I attempted to submit the form multiple times by clicking the 'Continue' button, but the form did not submit. The task is not fully completed as the form was not successfully submitted."
+        }
+    },
+    "fitjeans.com": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 10,
+            "duration": 84.99219679832458,
+            "start_time": "2025-05-05T17:54:01.507958",
+            "end_time": "2025-05-05T17:55:27.628890",
+            "input_tokens": 45095,
+            "final_result": "Navigated to fitjeans.com, accepted the cookie dialog. I attempted to close the chat pop-up multiple times by clicking the chat button and the link, but it remains open. I also scrolled down to look for a close button but did not find one. The task is not fully complete as the chat pop-up is still present."
+        }
+    },
+    "cdlp.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 8,
+            "duration": 70.25505423545837,
+            "start_time": "2025-05-05T17:55:31.853943",
+            "end_time": "2025-05-05T17:56:43.381028",
+            "input_tokens": 33756,
+            "final_result": "Navigated to cdlp.com, accepted cookies, waited, and closed visible pop-ups. No further pop-ups are present."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 6,
+            "duration": 63.43096590042114,
+            "start_time": "2025-05-05T17:56:43.784783",
+            "end_time": "2025-05-05T17:57:48.616784",
+            "input_tokens": 29697,
+            "final_result": "Successfully added a Midweight T-Shirt (M / Lilac) to the cart and navigated to the checkout page which serves as the cart overview."
+        },
+        "checkout_agent": {
+            "status": "success",
+            "steps_taken": 24,
+            "duration": 179.73220086097717,
+            "start_time": "2025-05-05T17:57:48.798293",
+            "end_time": "2025-05-05T18:00:49.839563",
+            "input_tokens": 251865,
+            "final_result": "Successfully navigated to checkout, filled in all the form fields with the provided user data and payment information, and submitted the order. The order is now processing."
+        }
+    },
+    "volantaroma.com": {
+        "entry_agent": {
+            "status": "success",
+            "steps_taken": 2,
+            "duration": 15.118378400802612,
+            "start_time": "2025-05-05T18:00:56.552159",
+            "end_time": "2025-05-05T18:01:14.136363",
+            "input_tokens": 7356,
+            "final_result": "Successfully navigated to volantaroma.com and no cookie dialogue or pop-ups were present on the initial page load."
+        },
+        "product_selection_agent": {
+            "status": "success",
+            "steps_taken": 12,
+            "duration": 96.74566221237183,
+            "start_time": "2025-05-05T18:01:14.356994",
+            "end_time": "2025-05-05T18:02:52.410894",
+            "input_tokens": 75214,
+            "final_result": "Successfully added a product to the cart and navigated to the cart overview. The cart shows 2 items with a total of 36 EUR."
+        },
+        "checkout_agent": {
+            "status": "failure",
+            "steps_taken": 12,
+            "duration": 84.3524215221405,
+            "start_time": "2025-05-05T18:02:52.584404",
+            "end_time": "2025-05-05T18:04:18.056046",
+            "input_tokens": 88182,
+            "final_result": "I am unable to complete the task because I cannot fill in the phone number field. I have attempted to input the phone number three times into index 24, but the field remains empty. According to the rules, I cannot interact with the same element more than three times. Therefore, I cannot proceed with filling the rest of the form."
+        }
+    },
+    "sweedbeauty.com": {
+        "entry_agent": {
+            "status": "failure",
+            "steps_taken": 10,
+            "duration": 76.26701545715332,
+            "start_time": "2025-05-05T18:04:24.753836",
+            "end_time": "2025-05-05T18:05:42.500197",
+            "input_tokens": 44499,
+            "final_result": "Navigated to https://sweedbeauty.com. Closed an email subscription pop-up. Attempted to dismiss the cookie banner by clicking OK multiple times and clicking Learn More, but the banner is still present. The task is not fully completed as the cookie banner is still visible."
+        }
+    }
+}

@@ -1,0 +1,61 @@
+website;language;entry;product;checkout;cookies;email filled;phone filled;failure reason;notes
+gisou.com;dutch;passed;passed;passed;passed;passed;passed;;
+opposuits.eu;dutch;passed;passed;submit;passed;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+polaroid.com;dutch;passed;passed;passed;passed;passed;passed;;
+nl.tonyschocolonely.com;dutch;passed;passed;passed;passed;passed;passed;;
+viktor-rolf.com;dutch;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+artbymaudsch.com;dutch;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Clicked the invisible 'Continue' button instead of proceeding with the form
+tameson.nl;dutch;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Searched for credit card fields, but these were in the next step
+polarskateco.com;dutch;passed;passed;partial;no choice;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+kiiroo.com;dutch;passed;passed;passed;passed;passed;passed;;
+avantarte.com;dutch;passed;passed;passed;no choice;passed;passed;;
+paperlike.com;german;passed;passed;passed;passed;passed;passed;;
+impericon.com;german;passed;passed;passed;passed;passed;passed;;
+asphaltgold.com;german;passed;passed;passed;passed;passed;passed;;
+livefastdieyoung.com;german;passed;passed;submit;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+purelei.com;german;passed;passed;passed;passed;passed;passed;;
+taschen.com;german;passed;passed;passed;passed;passed;passed;;
+lamy.com;german;passed;failed;skipped;no dialogue;skipped;skipped;Selection and interaction failures;Asked to select retailer on map
+wildling.shoes;german;passed;passed;passed;passed;passed;passed;;
+esn.com;german;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+northsails.com;german;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Clicked the invisible 'Continue' button instead of proceeding with the form
+manucurist.com;french;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Product required three separate colors, which failed
+polene-paris.com;french;passed;passed;partial;passed;passed;failed;Selection and interaction failures;Clicked the invisible 'Continue' button instead of proceeding with the form
+isabelmarant.com;french;passed;passed;passed;passed;passed;passed;;
+merci-merci.com;french;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+wethenew.com;french;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Did not select pick-up point
+lecoqsportif.com;french;passed;passed;partial;passed;passed;passed;Form and input errors;Did not select correct country
+atoleajewelry.com;french;passed;passed;passed;passed;passed;passed;;
+lancaster.com;french;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+juliettehasagun.com;french;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+rouje.com;french;failed;skipped;skipped;passed;skipped;skipped;Site and navigation issues;Model returned empty response
+coldcultureworldwide.com;spanish;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card and Expiry Date
+palomawool.com;spanish;failed;skipped;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to select country version of the website
+dondisfraz.com;spanish;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Phone Number
+smalltattoos.com;spanish;failed;skipped;skipped;no choice;skipped;skipped;Pop-ups and interruptions;Keep opening chat popup
+castaner.com;spanish;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Clicked the invisible 'Continue' button instead of proceeding with the form
+mellerbrand.com;spanish;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Kept filling the credit card fields, but did not submit form
+tatteco.com;spanish;passed;passed;partial;no choice;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+thehoffbrand.com;spanish;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Repeatedly filled in Barcelona
+farmaciasdirect.eu;spanish;passed;passed;passed;passed;passed;passed;;
+pdpaola.com;spanish;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+alessi.com;italian;passed;passed;passed;passed;passed;passed;;
+apm.mc;italian;passed;passed;passed;passed;passed;passed;;
+kappa.com;italian;passed;passed;passed;passed;passed;passed;;
+k-way.com;italian;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Clicked the invisible 'submit' button instead of proceeding with the form
+eu.clivechristian.com;italian;failed;skipped;skipped;skipped;skipped;skipped;Site and navigation issues;Site did not load
+savetheduck.com;italian;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+p448.com;italian;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Clicked the invisible 'submit' button instead of proceeding with the form
+alyxstudio.com;italian;passed;passed;passed;passed;passed;passed;;
+dolceterra.com;italian;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+anndemeulemeester.com;italian;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Could not find a product page on the website
+grimfrost.eu;swedish;failed;skipped;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to select country version of the website
+agood.com;swedish;passed;passed;passed;no dialogue;passed;passed;;
+eu.flattered.com;swedish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Could not find a product to add to cart
+boxbollen.com;swedish;passed;passed;partial;no dialogue;passed;passed;Form and input errors;Did not fill credit cart field
+belartestudio.com;swedish;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly entered the Expiry Data for the credit card
+twinkles.net;swedish;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Clicked the invisible 'submit' button instead of proceeding with the form
+fitjeans.com;swedish;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Keep opening chat popup
+cdlp.com;swedish;passed;passed;passed;passed;passed;passed;;
+volantaroma.com;swedish;passed;passed;partial;no dialogue;passed;passed;Looping and repetitive actions;Repeatedly selected the delivery method until out of steps
+sweedbeauty.com;swedish;failed;skipped;skipped;no choice;skipped;skipped;Selection and interaction failures;Unable to close cookie dialogue

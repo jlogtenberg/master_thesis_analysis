@@ -1,0 +1,129 @@
+website;language;entry;product;checkout;cookies;email filled;phone filled;failure reason;notes
+zalando.nl;dutch;passed;passed;submit;passed;passed;passed;;Requires email verification to continue
+wehkamp.nl;dutch;passed;passed;submit;passed;passed;passed;;Existing account found for credentials
+c-and-a.com;dutch;failed;skipped;skipped;failed;skipped;skipped;Looping and repetitive actions;Kept searching for more options in cookie dialogue
+bever.nl;dutch;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, analytical cookie definition
+scapino.nl;dutch;passed;passed;passed;passed;passed;passed;;
+bonprix.nl;dutch;passed;passed;partial;passed;passed;passed;Form and input errors;Phone number written in international format, but form required local format
+aboutyou.nl;dutch;failed;skipped;skipped;skipped;skipped;skipped;Site and navigation issues;Unable to navigate to website
+adidas.nl;dutch;passed;failed;skipped;passed;skipped;skipped;Site and navigation issues;Sizes for products are not loading
+otto.nl;dutch;passed;passed;passed;passed;passed;passed;;
+otrium.nl;dutch;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Crashed on closing pop-up
+douglas.nl;dutch;passed;failed;skipped;passed;skipped;skipped;Looping and repetitive actions;Kept scrolling down to find more products
+iciparisxl.nl;dutch;passed;passed;partial;passed;passed;passed;Form and input errors;Email format is not accepted by website
+notino.nl;dutch;passed;passed;failed;passed;passed;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during checkout
+newpharma.nl;dutch;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Trouble closing chat popup
+da.nl;dutch;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Kept appending information to fields, which disturbed forms
+lookfantastic.nl;dutch;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly formatted ZIP code (required space between digits and letters)
+boozyshop.nl;dutch;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+parfumdreams.nl;dutch;passed;passed;passed;passed;passed;passed;;
+parfumswinkel.nl;dutch;passed;passed;partial;passed;passed;passed;Site and navigation issues;Street and city were not able to filled in, required click first before these opened
+lush.com;dutch;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Failed to select region from dropdown menu
+zalando.de;german;passed;passed;failed;passed;passed;skipped;Site and navigation issues;Site shows error code upon submission of the email address and clicking the ' Continue' button
+limango.de;german;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Kept scrolling down for ways to close pop up
+bonprix.de;german;passed;passed;submit;passed;passed;passed;;
+aboutyou.de;german;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+baur.de;german;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly formatted ZIP code
+breuninger.de;german;passed;passed;partial;passed;passed;passed;Form and input errors;Skipped last name and street name
+peek-cloppenburg.de;german;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+deichmann.com;german;passed;passed;failed;passed;failed;failed;Selection and interaction failures;Returned to previous page after filling in all fields instead of 'Continue', which deleted all inputted information
+kik.de;german;passed;passed;submit;passed;passed;passed;;
+engelbert-strauss.de;german;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Unable to select option in dropdown menu for date of birth
+douglas.de;german;passed;passed;passed;passed;passed;passed;;
+flaconi.de;german;failed;skipped;skipped;failed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+notino.de;german;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+parfumdreams.de;german;passed;passed;submit;passed;passed;passed;Looping and repetitive actions;Ran out of steps after repeatedly entering the same credentials over and over
+sephora.de;german;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+easycosmetic.de;german;passed;passed;submit;passed;passed;passed;Looping and repetitive actions;Keeps filling in credit card information, but did does not click submit
+stylevana.com;german;passed;passed;partial;no choice;passed;passed;Looping and repetitive actions;Keeps searching for more input fields, which were not on that page
+yves-rocher.de;german;passed;passed;failed;passed;passed;failed;Form and input errors;Email format is not accepted
+asambeauty.com;german;passed;passed;partial;passed;passed;passed;Site and navigation issues;All information was correct, but continue button did not respond
+doterra.com;german;passed;failed;skipped;passed;skipped;skipped;Looping and repetitive actions;Keeps scrolling to find more products
+zalando.fr;french;passed;passed;failed;passed;passed;skipped;Site and navigation issues;Site shows error code upon submission of the email address and clicking the ' Continue' button
+kiabi.com;french;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Unable to select delivery option
+uniqlo.com;french;passed;passed;submit;passed;passed;skipped;;Requires email verification to continue
+spartoo.com;french;passed;passed;passed;passed;passed;passed;;
+celio.com;french;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered Sliding Puzzle check during product selection
+blancheporte.fr;french;passed;passed;partial;passed;failed;passed;Looping and repetitive actions;Keeps searching for more field and continue button
+gemo.fr;french;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to select delivery option
+etam.com;french;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+courir.com;french;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+jdsports.fr;french;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps searching for more input fields, which were not on that page
+planity.com;french;failed;skipped;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to select the correct version of the webshop
+aroma-zone.com;french;passed;passed;partial;passed;passed;failed;Pop-ups and interruptions;Pop up for delivery information kept reappearing
+sephora.fr;french;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps searching for continue button at the bottom of the page
+nocibe.fr;french;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to navigate to checkout
+yves-rocher.fr;french;passed;passed;failed;passed;passed;failed;Form and input errors;Email format is not accepted
+notino.fr;french;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Accidentely accepted cookies
+my-origines.com;french;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps searching for more input fields
+compagnie-des-sens.fr;french;failed;skipped;skipped;skipped;skipped;skipped;Site and navigation issues;Unable to navigate to website
+newpharma.fr;french;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+marionnaud.fr;french;passed;passed;partial;passed;passed;failed;Form and input errors;Wrongly formatted phone number
+zalando.it;italian;passed;passed;failed;passed;passed;skipped;Site and navigation issues;Site shows error code upon submission of the email address and clicking the ' Continue' button
+zalando-prive.it;italian;passed;failed;skipped;passed;skipped;skipped;Site and navigation issues;Forced on sign-in page
+cisalfasport.it;italian;passed;passed;partial;passed;passed;failed;Selection and interaction failures;Failed to select region from dropdown menu
+adidas.it;italian;passed;failed;skipped;passed;skipped;skipped;Site and navigation issues;Sizes for products are not loading
+spartoo.it;italian;passed;passed;passed;passed;passed;passed;;
+ovs.it;italian;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Unable to close pop up
+intimissimi.com;italian;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to find product
+yoox.com;italian;passed;failed;skipped;passed;skipped;skipped;Site and navigation issues;During product selection 'Access Denied' page is shown
+tradeinn.com;italian;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+tezenis.com;italian;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps entering the same fields again repeatedly until max steps
+notino.it;italian;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+sephora.it;italian;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps searching for continue button at the bottom of the page
+douglas.it;italian;passed;passed;partial;passed;passed;passed;Form and input errors;Wrongly formatted phone number
+topfarmacia.it;italian;passed;passed;submit;passed;passed;passed;Form and input errors;Wrongly formatted credit card fields
+pinalli.it;italian;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps entering the credit card fields until max steps
+tigota.it;italian;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Unable to close pop up on homepage
+veralab.it;italian;passed;passed;partial;passed;passed;failed;Form and input errors;Wrongly formatted phone number
+erbolario.com;italian;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Failed to select date of birth from dropdowns
+casadelprofumo.it;italian;failed;skipped;skipped;failed;skipped;skipped;Pop-ups and interruptions;Unable to close pop up on homepage
+yves-rocher.it;italian;passed;passed;submit;passed;passed;failed;Form and input errors;Wrongly formatted phone number
+zalando.es;spanish;passed;passed;passed;passed;passed;passed;;
+pullandbear.com;spanish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to go to cart overview
+adidas.es;spanish;passed;failed;skipped;passed;skipped;skipped;Site and navigation issues;Sizes for products are not loading
+myspringfield.com;spanish;passed;passed;partial;passed;passed;passed;Form and input errors;Email address and phone number format not accepted by website
+bershka.com;spanish;passed;passed;partial;passed;passed;passed;Selection and interaction failures;Trouble selecting Province from dropdown menu
+womensecret.com;spanish;passed;passed;partial;passed;passed;passed;Form and input errors;Email and ZIP code are not accepted by website
+lefties.com;spanish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Checkbox missing 
+sprintersports.com;spanish;passed;passed;partial;passed;passed;passed;Form and input errors;Email format not accepted by website
+cortefiel.com;spanish;passed;passed;partial;passed;passed;passed;Form and input errors;Email format and ZIP not accepted by website
+stradivarius.com;spanish;passed;passed;failed;passed;skipped;skipped;Selection and interaction failures;Forced to select address on a map, unable to interact
+primor.eu;spanish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+druni.es;spanish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+sephora.es;spanish;passed;passed;partial;passed;passed;skipped;Selection and interaction failures;Trouble with 'Continue as guest' checkbox
+notino.es;spanish;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+promofarma.com;spanish;passed;passed;passed;passed;passed;passed;;
+arenal.com;spanish;passed;passed;submit;passed;passed;passed;Selection and interaction failures;Skipped terms and conditions checkbox
+perfumesclub.com;spanish;passed;passed;partial;passed;passed;skipped;Verification and security challenges;Encountered Google Captcha check during checkout
+miin-cosmetics.com;spanish;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+douglas.es;spanish;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Kept appending information to fields, which disturbed forms
+yepoda.es;spanish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+zalando.se;swedish;passed;passed;passed;passed;passed;passed;;
+sellpy.se;swedish;passed;passed;passed;passed;passed;passed;;
+boozt.com;swedish;passed;passed;partial;passed;passed;failed;Form and input errors;ZIP code and Country code invalid
+booztlet.com;swedish;passed;passed;partial;passed;passed;failed;Form and input errors;ZIP code and Country code invalid
+ellos.se;swedish;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+stadiumoutlet.se;swedish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Unable to select size from dropdown menu
+lindex.com;swedish;passed;passed;partial;passed;passed;passed;Form and input errors;ZIP code not accepted by website
+lager157.com;swedish;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+adidas.se;swedish;passed;failed;skipped;failed;skipped;skipped;Site and navigation issues;Sizes for products are not loading
+dressmann.com;swedish;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+lyco.co.uk;swedish;passed;passed;partial;passed;passed;passed;Form and input errors;ZIP code is not accepted
+kicks.se;swedish;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps selecting delivery option
+notino.se;swedish;passed;failed;skipped;passed;skipped;skipped;Verification and security challenges;Encountered CloudFlare 'Verify you are human' check during product selection
+gents.se;swedish;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+cocopanda.se;swedish;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+sephora.se;swedish;passed;passed;partial;passed;passed;passed;Looping and repetitive actions;Keeps searching for continue button at the bottom of the page
+parfym.se;swedish;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+bangerhead.se;swedish;passed;passed;submit;passed;passed;passed;Selection and interaction failures;Unable to click 'Pay Now' in form
+luxplus.se;swedish;passed;passed;submit;passed;passed;passed;Selection and interaction failures;Unable to click 'Pay Now' in form
+nordicfeel.se;swedish;passed;passed;submit;passed;passed;passed;;Cannot interact with credit card fields
+hm.com;dutch;passed;passed;partial;passed;passed;passed;Form and input errors;Email format not accepted by website
+shein.com;dutch;failed;skipped;skipped;passed;skipped;skipped;Pop-ups and interruptions;Unable to close pop up on homepage
+zara.com;dutch;passed;passed;submit;passed;passed;passed;Site and navigation issues;Site did not respond on payment options
+mango.com;dutch;passed;passed;partial;passed;passed;passed;Form and input errors;Email address and ZIP Code format is not accepted by website
+asos.com;dutch;passed;failed;skipped;passed;skipped;skipped;Selection and interaction failures;Trouble finding and adding product to cart
+rituals.com;dutch;passed;passed;partial;passed;passed;passed;Site and navigation issues;Street and city were filled, but site stated that these were not filled
+yesstyle.com;dutch;failed;skipped;skipped;failed;skipped;skipped;Selection and interaction failures;Stuck in cookie dialogue, unable to decline
+kikocosmetics.com;dutch;passed;passed;submit;passed;passed;passed;Form and input errors;Skipped CVV in credit card info

@@ -1,0 +1,5619 @@
+[
+  {
+    "website": "adidas.nl",
+    "leaks": [
+      {
+        "domain": "adidas.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "setCookie",
+            "timestamp": "2025-05-06T20:15:23.691Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "arenal.com",
+    "leaks": [
+      {
+        "domain": "trackingplan.com",
+        "data_leaked": [
+          {
+            "leaked_value": "MALE",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:30:44.503Z"
+          }
+        ]
+      },
+      {
+        "domain": "arenal.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+arenal.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:31:25.887Z"
+          },
+          {
+            "leaked_value": "Carrer de la Immaculada",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:34:03.126Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "aroma-zone.com",
+    "leaks": [
+      {
+        "domain": "googleapis.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Rue Victor Cousin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:03:31.474Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:03:31.486Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:03:31.492Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "bangerhead.se",
+    "leaks": [
+      {
+        "domain": "facebook.com",
+        "data_leaked": [
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:40:36.170Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:40:36.170Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:40:36.174Z"
+          }
+        ]
+      },
+      {
+        "domain": "bangerhead.se",
+        "data_leaked": [
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:40:38.352Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:40:38.352Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:40:38.352Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "bershka.com",
+    "leaks": [
+      {
+        "domain": "googleapis.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Carrer de la Immaculada",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:31:06.104Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "bever.nl",
+    "leaks": [
+      {
+        "domain": "bever.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:03:43.679Z"
+          }
+        ]
+      },
+      {
+        "domain": "google-analytics.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:03:43.935Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "blancheporte.fr",
+    "leaks": [
+      {
+        "domain": "blancheporte.fr",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:44:00.570Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:44:01.096Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:44:39.960Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:44:52.315Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:45:33.115Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:45:47.985Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:46:26.329Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:46:26.509Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.796Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.797Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.797Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.797Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.797Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.797Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.798Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.798Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.798Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.798Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.798Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.799Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.799Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.800Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.800Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.881Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.882Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.882Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.882Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.998Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:26.998Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:27.173Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:46:27.768Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:46:27.768Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:46:27.768Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.685Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.686Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-07T09:47:24.687Z"
+          }
+        ]
+      },
+      {
+        "domain": "netvigie.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:44:37.851Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:44:50.938Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:45:31.533Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:45:46.873Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:46:26.509Z"
+          }
+        ]
+      },
+      {
+        "domain": "cquotient.com",
+        "data_leaked": [
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:46:26.899Z"
+          }
+        ]
+      },
+      {
+        "domain": "bing.net",
+        "data_leaked": [
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:46:27.067Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "bonprix.de",
+    "leaks": [
+      {
+        "domain": "bonprix.de",
+        "data_leaked": [
+          {
+            "leaked_value": "+49",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "setCookie",
+            "timestamp": "2025-05-07T07:31:14.854Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "bonprix.nl",
+    "leaks": [
+      {
+        "domain": "bonprix.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+bonprix.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:11:33.705Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:12:01.155Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:12:01.167Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:12:01.183Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+bonprix.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:12:26.865Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+bonprix.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:12:39.016Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+bonprix.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:12:56.522Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+bonprix.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:13:18.592Z"
+          },
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:13:26.988Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+bonprix.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:13:26.988Z"
+          },
+          {
+            "leaked_value": "+31610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:13:26.988Z"
+          },
+          {
+            "leaked_value": "Password123!",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:13:26.988Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "boozt.com",
+    "leaks": [
+      {
+        "domain": "boozt.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:13:12.216Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "boozyshop.nl",
+    "leaks": [
+      {
+        "domain": "boozyshop.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:43:41.934Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:43:41.935Z"
+          }
+        ]
+      },
+      {
+        "domain": "bing.net",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:43:42.869Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "breuninger.de",
+    "leaks": [
+      {
+        "domain": "breuninger.com",
+        "data_leaked": [
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T07:47:52.920Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T07:48:11.302Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T07:48:11.302Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "casadelprofumo.it",
+    "leaks": [
+      {
+        "domain": "casadelprofumo.it",
+        "data_leaked": [
+          {
+            "leaked_value": "roma",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:17:18.078Z"
+          },
+          {
+            "leaked_value": "roma",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:17:29.965Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "celio.com",
+    "leaks": [
+      {
+        "domain": "celio.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:43:35.995Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "cisalfasport.it",
+    "leaks": [
+      {
+        "domain": "cisalfasport.it",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+cisalfasport.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:46:40.162Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+cisalfasport.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:46:49.852Z"
+          }
+        ]
+      },
+      {
+        "domain": "googleapis.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Piazzale Aldo Moro 5",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:47:06.067Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "cocopanda.se",
+    "leaks": [
+      {
+        "domain": "google-analytics.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Sverige",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:27:13.711Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "courir.com",
+    "leaks": [
+      {
+        "domain": "courir.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:06:25.347Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:07:09.310Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "deichmann.com",
+    "leaks": [
+      {
+        "domain": "data-quality-service.com",
+        "data_leaked": [
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T07:56:42.161Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "douglas.de",
+    "leaks": [
+      {
+        "domain": "worldpay.com",
+        "data_leaked": [
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:19:08.242Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "douglas.it",
+    "leaks": [
+      {
+        "domain": "douglas.it",
+        "data_leaked": [
+          {
+            "leaked_value": "italia",
+            "encoding_or_hash": "base64-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:35:32.031Z"
+          },
+          {
+            "leaked_value": "italia",
+            "encoding_or_hash": "base64-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:36:04.209Z"
+          },
+          {
+            "leaked_value": "italia",
+            "encoding_or_hash": "base64-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:36:20.264Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "dressmann.com",
+    "leaks": [
+      {
+        "domain": "dressmann.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:53:15.225Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "easycosmetic.de",
+    "leaks": [
+      {
+        "domain": "facebook.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+easycosmetic.de@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "49610666475",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+easycosmetic.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "49610666475",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:52:39.004Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.007Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+easycosmetic.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.007Z"
+          },
+          {
+            "leaked_value": "49610666475",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.007Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.007Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "berlin",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "berlin",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:14.255Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:14.341Z"
+          },
+          {
+            "leaked_value": "berlin",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:14.341Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:14.341Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:14.341Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "berlin",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "berlin",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:53:36.072Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:36.150Z"
+          },
+          {
+            "leaked_value": "berlin",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:36.150Z"
+          },
+          {
+            "leaked_value": "david",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:36.150Z"
+          },
+          {
+            "leaked_value": "10117",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:36.150Z"
+          }
+        ]
+      },
+      {
+        "domain": "easycosmetic.de",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+easycosmetic.de@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.197Z"
+          },
+          {
+            "leaked_value": "+49610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.197Z"
+          },
+          {
+            "leaked_value": "+49",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:52:39.197Z"
+          },
+          {
+            "leaked_value": "Unter Den Linden",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:53:36.139Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "engelbert-strauss.de",
+    "leaks": [
+      {
+        "domain": "strauss.com",
+        "data_leaked": [
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:39:27.539Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "etam.com",
+    "leaks": [
+      {
+        "domain": "etam.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:53:30.453Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:54:07.856Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:54:10.098Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:54:19.462Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "flaconi.de",
+    "leaks": [
+      {
+        "domain": "cloudflare.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+49",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:19:55.115Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "hm.com",
+    "leaks": [
+      {
+        "domain": "sitelabweb.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:55:40.791Z"
+          },
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:55:45.927Z"
+          },
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:56:44.033Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "intimissimi.com",
+    "leaks": [
+      {
+        "domain": "googlesyndication.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:58:55.611Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:11.950Z"
+          }
+        ]
+      },
+      {
+        "domain": "google-analytics.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:58:55.671Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:58:56.340Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:01.355Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:08.941Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:11.667Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:16.999Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:29.918Z"
+          }
+        ]
+      },
+      {
+        "domain": "intimissimi.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:58:55.924Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:58:56.495Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:59:12.695Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "jdsports.fr",
+    "leaks": [
+      {
+        "domain": "facebook.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:54.052Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:54.052Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:54.052Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:54.052Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:55.743Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:55.743Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:55.743Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:55.743Z"
+          }
+        ]
+      },
+      {
+        "domain": "tiktok.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:48.389Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:53.756Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:55.744Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:55.744Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:55.747Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:55.747Z"
+          }
+        ]
+      },
+      {
+        "domain": "jdgroupmesh.cloud",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:48.390Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:54.052Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:58:18.552Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:58:18.552Z"
+          }
+        ]
+      },
+      {
+        "domain": "snapchat.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:57:48.414Z"
+          }
+        ]
+      },
+      {
+        "domain": "jdsports.fr",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+jdsports.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:57:55.743Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "kiabi.com",
+    "leaks": [
+      {
+        "domain": "browser-intake-datadoghq.eu",
+        "data_leaked": [
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:30:48.659Z"
+          },
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:30:56.226Z"
+          },
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:31:24.220Z"
+          },
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:31:36.610Z"
+          },
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:32:14.129Z"
+          },
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:32:32.025Z"
+          },
+          {
+            "leaked_value": "France",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:32:39.843Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:33:10.688Z"
+          }
+        ]
+      },
+      {
+        "domain": "woosmap.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:33:03.607Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "kik.de",
+    "leaks": [
+      {
+        "domain": "kik.de",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+kik.de@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:00:31.330Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "kikocosmetics.com",
+    "leaks": [
+      {
+        "domain": "woosmap.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Toernooiveld 200",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:33:48.670Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "lookfantastic.nl",
+    "leaks": [
+      {
+        "domain": "lookfantastic.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:16.034Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:16.034Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:21.031Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:49.195Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:49.889Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:49.889Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:13:50.371Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:14:11.621Z"
+          }
+        ]
+      },
+      {
+        "domain": "thehut.net",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:15:17.129Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "luxplus.se",
+    "leaks": [
+      {
+        "domain": "luxplus.se",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:08.895Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:08.895Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:08.895Z"
+          },
+          {
+            "leaked_value": "Password123!",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:08.895Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:11.299Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:14.751Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:28.065Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:30.005Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:31.308Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:46:39.772Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:19.353Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:47:47.999Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:22.565Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:48:56.706Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:30.296Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:49:58.428Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:25.911Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:27.142Z"
+          },
+          {
+            "leaked_value": "Goteborg",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          },
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:50:28.961Z"
+          }
+        ]
+      },
+      {
+        "domain": "bing.net",
+        "data_leaked": [
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:22.013Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:22.013Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:22.013Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:22.013Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:22.013Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:22.013Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:41.417Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:41.417Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:41.417Z"
+          },
+          {
+            "leaked_value": "46123456789",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:41.417Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:41.417Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+luxplus.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T11:46:41.417Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "lyco.co.uk",
+    "leaks": [
+      {
+        "domain": "trackedweb.net",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+lyco.co.uk@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:56:16.075Z"
+          }
+        ]
+      },
+      {
+        "domain": "lyco.co.uk",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+lyco.co.uk@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:56:16.075Z"
+          }
+        ]
+      },
+      {
+        "domain": "postcodeanywhere.co.uk",
+        "data_leaked": [
+          {
+            "leaked_value": "Universitetsplatsen",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:56:40.620Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:57:22.983Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:58:20.760Z"
+          },
+          {
+            "leaked_value": "Universitetsplatsen 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:58:20.888Z"
+          },
+          {
+            "leaked_value": "40530",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:59:18.089Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "mango.com",
+    "leaks": [
+      {
+        "domain": "google-analytics.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:10:15.956Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:10:20.964Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:10:32.146Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:10:32.146Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:10:32.560Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:10:37.589Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:08.866Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:08.866Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:14.509Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:19.216Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:24.604Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:30.829Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:11:44.832Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:12:06.658Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:12:11.666Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:13:30.397Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:13:46.334Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:15:05.276Z"
+          }
+        ]
+      },
+      {
+        "domain": "mango.com",
+        "data_leaked": [
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:15:31.542Z"
+          },
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:17:08.521Z"
+          },
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:17:57.282Z"
+          },
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:18:09.440Z"
+          },
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:18:37.507Z"
+          },
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:19:55.173Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "marionnaud.fr",
+    "leaks": [
+      {
+        "domain": "useinsider.com",
+        "data_leaked": [
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:33:18.184Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:33:18.303Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:33:18.459Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:33:28.535Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:33:33.403Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:33:35.588Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:34:13.429Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:34:29.000Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:34:29.226Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:34:46.750Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:34:59.079Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:34:59.334Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:34:59.334Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:35:13.060Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:38:39.943Z"
+          },
+          {
+            "leaked_value": "france",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:38:49.858Z"
+          }
+        ]
+      },
+      {
+        "domain": "marionnaud.fr",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:36:52.788Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.210Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.217Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.217Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.232Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.233Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.247Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.247Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.263Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.263Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.274Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.274Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.397Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.398Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.398Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.398Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.398Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.398Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+marionnaud.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.516Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.517Z"
+          },
+          {
+            "leaked_value": "33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.694Z"
+          },
+          {
+            "leaked_value": "75005",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:37:19.777Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "my-origines.com",
+    "leaks": [
+      {
+        "domain": "my-origines.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:23:12.050Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:23:43.367Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:23:55.984Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:25:29.886Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:25:41.972Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:25:50.703Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:26:11.333Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:26:28.211Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:27:16.219Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:29:04.829Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "newpharma.nl",
+    "leaks": [
+      {
+        "domain": "botmind.ai",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:36:53.773Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.500Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.500Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.500Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.501Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.501Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.921Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.921Z"
+          },
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:36:54.922Z"
+          }
+        ]
+      },
+      {
+        "domain": "priceedge.eu",
+        "data_leaked": [
+          {
+            "leaked_value": "Nederland",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:36:53.856Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "notino.de",
+    "leaks": [
+      {
+        "domain": "cloudflare.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+49",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:21:14.684Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "notino.es",
+    "leaks": [
+      {
+        "domain": "notino.es",
+        "data_leaked": [
+          {
+            "leaked_value": "+34",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:27:25.383Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "notino.fr",
+    "leaks": [
+      {
+        "domain": "notino.fr",
+        "data_leaked": [
+          {
+            "leaked_value": "+33",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:22:25.484Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "notino.it",
+    "leaks": [
+      {
+        "domain": "cloudflare.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+39",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:16:38.243Z"
+          },
+          {
+            "leaked_value": "+39",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:16:59.225Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "notino.se",
+    "leaks": [
+      {
+        "domain": "cloudflare.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:24:28.619Z"
+          },
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:24:44.826Z"
+          },
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:24:50.784Z"
+          },
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:25:28.706Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "parfumdreams.de",
+    "leaks": [
+      {
+        "domain": "parfumdreams.de",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "setCookie",
+            "timestamp": "2025-05-07T08:26:12.614Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:26:13.768Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:26:13.768Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:26:52.684Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:26:52.684Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:28:50.974Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:28:50.974Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:28:59.589Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:28:59.589Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:04.470Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:04.470Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:08.930Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:08.930Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:13.108Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:13.108Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:13.520Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:13.520Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:21.543Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:21.543Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:26.264Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:26.264Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:31.125Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:31.125Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:35.154Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:35.154Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:35.631Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:35.631Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:46.273Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:46.273Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:50.989Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:50.989Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:55.594Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:55.594Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:59.631Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:29:59.631Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:00.173Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:00.173Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:08.187Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:08.187Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:12.642Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:12.642Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:17.350Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:17.350Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:21.667Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:21.667Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:22.247Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:22.247Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:30.679Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:30.679Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:35.635Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:35.635Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:40.255Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:40.255Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:44.323Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:44.323Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:45.043Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:45.043Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:52.865Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:52.865Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:57.599Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:30:57.599Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:02.266Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:02.266Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:06.330Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:06.330Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:06.898Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:06.898Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:15.357Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:15.357Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:20.099Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:20.099Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:24.602Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:24.602Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:28.858Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:28.858Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:29.347Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:29.347Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:37.537Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:37.537Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:42.326Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:42.326Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:47.128Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:47.128Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:51.209Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:51.209Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:51.738Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:31:51.738Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:00.746Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:00.746Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:05.750Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:05.750Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:09.743Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:09.743Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:13.920Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:13.920Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:14.600Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:14.600Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:23.238Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:23.238Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:28.009Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:28.009Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:32.702Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:32.702Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:36.540Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:36.540Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:37.159Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.de@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T08:32:37.159Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "parfumdreams.nl",
+    "leaks": [
+      {
+        "domain": "parfumdreams.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:11:55.274Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:02.272Z"
+          },
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:02.272Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:02.272Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:40.853Z"
+          },
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:40.853Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:40.853Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:53.375Z"
+          },
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:53.375Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:14:53.375Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:05.512Z"
+          },
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:05.512Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:05.512Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:18.903Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:18.903Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:18.903Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:29.490Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:29.490Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:29.490Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:44.259Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:44.259Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+parfumdreams.nl@gmail.com",
+            "encoding_or_hash": "base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:15:44.259Z"
+          }
+        ]
+      },
+      {
+        "domain": "ideal.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "setCookie",
+            "timestamp": "2025-05-07T07:15:45.399Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "parfumswinkel.nl",
+    "leaks": [
+      {
+        "domain": "parfumswinkel.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+parfumswinkel.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T07:46:03.660Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "peek-cloppenburg.de",
+    "leaks": [
+      {
+        "domain": "cloudflare.com",
+        "data_leaked": [
+          {
+            "leaked_value": "+49",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:54:08.172Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "pinalli.it",
+    "leaks": [
+      {
+        "domain": "pinalli.it",
+        "data_leaked": [
+          {
+            "leaked_value": "+39",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:42:23.025Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "rituals.com",
+    "leaks": [
+      {
+        "domain": "rituals.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+rituals.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T07:50:24.173Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:51:42.150Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:51:52.740Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:53:03.601Z"
+          }
+        ]
+      },
+      {
+        "domain": "googleapis.com",
+        "data_leaked": [
+          {
+            "leaked_value": "6525 EC",
+            "encoding_or_hash": "urlencode-urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T07:50:35.604Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "scapino.nl",
+    "leaks": [
+      {
+        "domain": "facebook.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:08:39.355Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:08:39.355Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:08:39.369Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:08:54.762Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:08:54.762Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:08:54.777Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:21.794Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:21.794Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:09:21.803Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.357Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.357Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.357Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.357Z"
+          }
+        ]
+      },
+      {
+        "domain": "squeezely.tech",
+        "data_leaked": [
+          {
+            "leaked_value": "Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.356Z"
+          },
+          {
+            "leaked_value": "0610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.356Z"
+          },
+          {
+            "leaked_value": "David",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.356Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+scapino.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.356Z"
+          },
+          {
+            "leaked_value": "Nijmegen",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.356Z"
+          },
+          {
+            "leaked_value": "6525EC",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:09:24.356Z"
+          }
+        ]
+      },
+      {
+        "domain": "ideal.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "Male",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "setCookie",
+            "timestamp": "2025-05-06T20:09:24.997Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sellpy.se",
+    "leaks": [
+      {
+        "domain": "tiktok.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+sellpy.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:09:02.072Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:09:02.072Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sellpy.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:09:02.199Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:09:02.199Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sellpy.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:11:24.533Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:11:24.533Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sellpy.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:11:31.446Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:11:31.446Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sellpy.se@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:11:37.334Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:11:37.334Z"
+          }
+        ]
+      },
+      {
+        "domain": "facebook.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Sverige",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:09:36.145Z"
+          },
+          {
+            "leaked_value": "Sverige",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T10:11:24.504Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sephora.de",
+    "leaks": [
+      {
+        "domain": "sephora.de",
+        "data_leaked": [
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:36:08.979Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T12:36:55.866Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sephora.es",
+    "leaks": [
+      {
+        "domain": "sephora.es",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+sephora.es@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:26:07.330Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.es@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:26:07.401Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.es@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:26:07.402Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.es@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:26:07.416Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.es@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T09:26:07.521Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sephora.fr",
+    "leaks": [
+      {
+        "domain": "sephora.fr",
+        "data_leaked": [
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:10:00.682Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:10:10.821Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:10:42.808Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:10:43.374Z"
+          },
+          {
+            "leaked_value": "Paris",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T10:10:56.662Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:11:03.536Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:11:07.148Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:11:07.320Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:11:17.119Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sephora.it",
+    "leaks": [
+      {
+        "domain": "sephora.it",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+sephora.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:20:05.816Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:20:09.437Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:20:09.567Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T11:20:18.728Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sephora.se",
+    "leaks": [
+      {
+        "domain": "sephora.se",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+sephora.se@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:29:55.974Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.se@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:29:59.559Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.se@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:29:59.625Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.se@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:30:08.943Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sephora.se@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T11:30:19.456Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "spartoo.com",
+    "leaks": [
+      {
+        "domain": "spartoo.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+spartoo.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:40:53.963Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin 1",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:42:23.736Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+spartoo.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:42:23.736Z"
+          },
+          {
+            "leaked_value": "+33610666475",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:42:23.736Z"
+          },
+          {
+            "leaked_value": "Password123!",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:42:23.736Z"
+          },
+          {
+            "leaked_value": "+33",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:42:23.736Z"
+          },
+          {
+            "leaked_value": "Rue Victor Cousin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:42:23.736Z"
+          },
+          {
+            "leaked_value": "5127 8809 9999 9990",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:43:02.081Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:43:02.081Z"
+          },
+          {
+            "leaked_value": "03/30",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:43:02.081Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "spartoo.it",
+    "leaks": [
+      {
+        "domain": "spartoo.it",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+spartoo.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:56:33.064Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+spartoo.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:58:24.464Z"
+          },
+          {
+            "leaked_value": "+39",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:58:24.464Z"
+          },
+          {
+            "leaked_value": "Password123!",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:58:24.464Z"
+          },
+          {
+            "leaked_value": "Piazzale Aldo Moro",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:58:24.464Z"
+          },
+          {
+            "leaked_value": "+3901234567890",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:58:24.464Z"
+          },
+          {
+            "leaked_value": "Piazzale Aldo Moro 5",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:58:24.464Z"
+          },
+          {
+            "leaked_value": "5127 8809 9999 9990",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:59:18.944Z"
+          },
+          {
+            "leaked_value": "David Lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:59:18.944Z"
+          },
+          {
+            "leaked_value": "03/30",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:59:18.944Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "sprintersports.com",
+    "leaks": [
+      {
+        "domain": "sprintersports.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+sprintersports.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T09:03:27.576Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sprintersports.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T09:03:39.419Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+sprintersports.com@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T09:03:52.053Z"
+          },
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T09:04:03.665Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "stradivarius.com",
+    "leaks": [
+      {
+        "domain": "googleapis.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Carrer de la Immaculada 2",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T09:15:30.412Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "stylevana.com",
+    "leaks": [
+      {
+        "domain": "yotpo.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:57:44.503Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:57:44.620Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:04.495Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:14.495Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:24.500Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:37.133Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.222Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.572Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.573Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.573Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.573Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.573Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.573Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:52.573Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:53.446Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:58:53.556Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:59:22.217Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:59:32.228Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:59:38.708Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:59:58.711Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T08:59:59.913Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:00:09.915Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:00:19.920Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:00:29.917Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:00:39.924Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:00:59.914Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:01:19.913Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:01:29.910Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:01:39.919Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:01:49.912Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:01:59.914Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:02:01.570Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:02:08.074Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:02:28.080Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:02:48.085Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:02:58.073Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:03:08.086Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:03:13.176Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:03:20.392Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:03:30.389Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:03:50.398Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:00.390Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:10.393Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:20.566Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:30.393Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:40.394Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:48.585Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:04:58.582Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:05:08.581Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:05:18.585Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:05:28.584Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:05:48.591Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:05:58.584Z"
+          },
+          {
+            "leaked_value": "Berlin",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T09:06:03.352Z"
+          }
+        ]
+      },
+      {
+        "domain": "tiktok.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:04:46.785Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+stylevana.com@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:04:46.785Z"
+          },
+          {
+            "leaked_value": "0610666475",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:04:46.785Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "tezenis.com",
+    "leaks": [
+      {
+        "domain": "googlesyndication.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:24.539Z"
+          }
+        ]
+      },
+      {
+        "domain": "google-analytics.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:24.616Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:24.617Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:24.618Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:24.618Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:25.167Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:30.167Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:38.210Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:09:04.739Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:09:13.215Z"
+          },
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:09:13.216Z"
+          }
+        ]
+      },
+      {
+        "domain": "tezenis.com",
+        "data_leaked": [
+          {
+            "leaked_value": "Italia",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-07T11:08:25.694Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "topfarmacia.it",
+    "leaks": [
+      {
+        "domain": "addressy.com",
+        "data_leaked": [
+          {
+            "leaked_value": "lauterbach",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:02:40.742Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+topfarmacia.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:02:40.751Z"
+          },
+          {
+            "leaked_value": "Piazzale Aldo Moro",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:02:50.162Z"
+          },
+          {
+            "leaked_value": "Piazzale Aldo Moro 5",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-12T08:02:50.162Z"
+          }
+        ]
+      },
+      {
+        "domain": "tiktok.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+topfarmacia.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:01.127Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:01.127Z"
+          },
+          {
+            "leaked_value": "01234567890",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:01.127Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+topfarmacia.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:16.272Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:16.272Z"
+          },
+          {
+            "leaked_value": "01234567890",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:16.272Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+topfarmacia.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:18.253Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:18.253Z"
+          },
+          {
+            "leaked_value": "01234567890",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-12T08:03:18.253Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "wehkamp.nl",
+    "leaks": [
+      {
+        "domain": "wehkamp.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T19:57:24.584Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T19:57:24.866Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:25.199Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:25.201Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:25.201Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:25.446Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:26.008Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T19:57:26.175Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:26.545Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T19:57:26.545Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:57:57.792Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T19:58:44.599Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:00:54.140Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:01:09.260Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:01:25.592Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-base64",
+            "leak_method": "referrer",
+            "timestamp": "2025-05-06T20:01:44.381Z"
+          }
+        ]
+      },
+      {
+        "domain": "google-analytics.com",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T19:57:31.138Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T19:58:49.045Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T19:58:49.045Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T19:59:53.965Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:00:58.951Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:00:58.951Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:01:13.652Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:01:13.652Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:01:30.290Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:01:30.290Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "url",
+            "timestamp": "2025-05-06T20:01:48.995Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+wehkamp.nl@gmail.com",
+            "encoding_or_hash": "urlencode-urlencode-base64",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T20:01:48.995Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "yves-rocher.de",
+    "leaks": [
+      {
+        "domain": "yves-rocher.de",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.de@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:09:59.889Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.de@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:10:10.173Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.de@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:10:33.355Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.de@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T09:10:44.984Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "yves-rocher.fr",
+    "leaks": [
+      {
+        "domain": "yves-rocher.fr",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.fr@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T10:21:37.067Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "yves-rocher.it",
+    "leaks": [
+      {
+        "domain": "yves-rocher.it",
+        "data_leaked": [
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:20:43.200Z"
+          },
+          {
+            "leaked_value": "Password123!",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:20:43.200Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:20:47.976Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:20:47.976Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:20:47.976Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:20:48.231Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:20:48.468Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:20:53.032Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:21:22.995Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:21:22.995Z"
+          },
+          {
+            "leaked_value": "Piazzale Aldo Moro",
+            "encoding_or_hash": "urlencode",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T08:21:35.074Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:21:35.817Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:21:35.817Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:21:40.837Z"
+          },
+          {
+            "leaked_value": "dlauterbachsd+yves-rocher.it@gmail.com",
+            "encoding_or_hash": "urlencode-sha256",
+            "leak_method": "url",
+            "timestamp": "2025-05-08T08:21:40.837Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "zalando.de",
+    "leaks": [
+      {
+        "domain": "zalando.de",
+        "data_leaked": [
+          {
+            "leaked_value": "+49",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-07T07:29:29.058Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "zalando.nl",
+    "leaks": [
+      {
+        "domain": "zalando.nl",
+        "data_leaked": [
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "setCookie",
+            "timestamp": "2025-05-06T19:51:23.550Z"
+          },
+          {
+            "leaked_value": "+31",
+            "encoding_or_hash": "custom_map_1-custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-06T19:51:27.493Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "website": "zalando.se",
+    "leaks": [
+      {
+        "domain": "zalando.se",
+        "data_leaked": [
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:05:54.002Z"
+          },
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:06:00.452Z"
+          },
+          {
+            "leaked_value": "+46",
+            "encoding_or_hash": "custom_map_1",
+            "leak_method": "postData",
+            "timestamp": "2025-05-08T10:06:06.183Z"
+          }
+        ]
+      }
+    ]
+  }
+]
