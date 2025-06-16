@@ -1,0 +1,6 @@
+base58==2.1.1
+lzstring==1.0.4
+mmh3==5.1.0
+pycryptodome==3.20.0
+tldextract==5.1.2
+tqdm==4.67.1
